@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React from 'react';
+import ButtonAppBar from "../src/Components/Header/Header";
+import {Carousel} from "./Components/Carousel/Carousel";
+import Info from "../src/Components/Info/Info";
+import Basement from "./Components/Basement/Basement";
 import './App.css';
+import Catalog_list from "./Components/Catalog_list/Catalog_list";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+function Main() {
+    return (
+        <div>
+            <ButtonAppBar/>
+            <div className="content">
+                <Carousel>
+                    <div className="item-1"></div>
+                    <div className="item-2"></div>
+                    <div className="item-3"></div>
+                    <div className="item-4"></div>
+                    <div className="item-5"></div>
+                    <div className="item-6"></div>
+                    <div className="item-7"></div>
+                    <div className="item-8"></div>
+                </Carousel>
+            </div>
+            <Info/>
+            <Catalog_list/>
+            <Basement/>
+
+        </div>
+    );
 }
 
-export default App;
+export default Main;
