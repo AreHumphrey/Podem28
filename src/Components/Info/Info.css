@@ -1,0 +1,86 @@
+.Inf {
+    flex-grow: 1;
+    display: grid;
+    z-index: 0;
+    height: 400px;
+    width: auto;
+    position: relative;
+    grid-template-columns: repeat(3, 1fr);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Inf::after {
+    content: "";
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.Inf a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.Inf svg {
+    width: 230px;
+    margin-right: -70px;
+}
+
+
+.App-header {
+    z-index: 0;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+
+.text_info {
+    margin-bottom: 5px;
+    color: #717171;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    word-wrap: inherit;
+    white-space: normal;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    display: flex;
+    overflow: hidden;
+
+}
+
+.info {
+    align-items: center;
+    flex-grow: 1;
+    display: contents;
+    color: #717171;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icon {
+
+    vertical-align: center;
+    flex-grow: 1;
+    z-index: 0;
+    top: 10px;
+    grid-template-columns: repeat(3, 1fr);
+
+}

@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 190px;
+    background: #FFFFFF;
+    z-index: 2;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Main_app {
+    background: #BB0B32;
+    height: 59px;
+    width: 100%;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.TextContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.TextContainer a {
+    color: white;
+    margin: 10px 40px;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 16px;
+    width: auto;
+
+}
+
+.TextContainer a.active {
+    font-family: Raleway;
+    background-color: white;
+    color: #BB0B32;
+    height: 59px;
+    line-height: 59px;
+    width: auto;
+    align-items: center;
+
+}
+
+.Search_app {
+    background: white;
+    height: 59px;
+    width: 100%;
+
+}
+
+
+

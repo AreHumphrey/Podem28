@@ -1,0 +1,96 @@
+
+.basement {
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    width: 100%;
+    background: rgba(20, 41, 122, 0.96);
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+.column {
+    text-align: center;
+    margin-bottom: 60px;
+    justify-content: space-between;
+    white-space: nowrap;
+
+
+}
+
+.column div {
+
+    font-weight: bold;
+    margin-bottom: 10px;
+    white-space: nowrap;
+}
+
+.column a {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    text-decoration: none;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.icon {
+    justify-content: flex-start;
+    white-space: nowrap;
+
+
+}
+
+.text {
+    color: rgba(234, 233, 233, 0.60);
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 2;
+    margin-left: 140px;
+    display: flex;
+
+
+}
+
+.text_all {
+    align-items: center;
+    color: rgba(234, 233, 233, 0.60);
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 2.5;
+    text-align: right;
+    margin-left: 140px;
+}
+
+.text_alls {
+    align-items: center;
+    color: rgba(234, 233, 233, 0.60);
+    font-family: Raleway;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.5;
+    margin-left: 100px;
+    white-space: nowrap;
+    display: flex;
+}
+
+.text_infos {
+    align-items: center;
+    text-align: right;
+    white-space: nowrap;
+
+}
+
+.text_alls svg {
+    margin-right: 5px;
+    white-space: nowrap;
+}
+
+.image-container {
+    float: none;
+    width: 100px;
+}
+

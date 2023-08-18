@@ -1,0 +1,36 @@
+.main-container {
+    position: relative;
+    height: 235px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    z-index: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.window {
+    z-index: inherit;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.all-items-container {
+    z-index: inherit;
+    height: 100%;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.arrow {
+    z-index: inherit;
+    cursor: pointer;
+    color: #0C263F;
+
+}
