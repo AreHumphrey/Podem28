@@ -46,14 +46,13 @@
 }
 
 .TextContainer a.active {
-    font-family: Raleway;
-    background-color: white;
-    color: #BB0B32;
-    height: 59px;
-    line-height: 59px;
-    width: auto;
-    align-items: center;
-
+    font-family: Raleway !important;
+    background-color: white !important;
+    color: #BB0B32 !important;
+    height: 59px !important;
+    line-height: 59px !important;
+    width: auto !important;
+    align-items: center !important;
 }
 
 .Search_app {
@@ -62,6 +61,5 @@
     width: 100%;
 
 }
-
 
 

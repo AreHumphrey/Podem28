@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import './Header.css';
 import SearchBox from './Search/Search';
 import Catalog from './Catalog/Catalog';
+import MyDropdownMenu from './Our_Products'
 
 export default function ButtonAppBar() {
     const [isOpen, setIsOpen] = useState(false);
@@ -34,7 +35,7 @@ export default function ButtonAppBar() {
             <div className="Main_app">
                 <div className="TextContainer">
                     <a
-                        href="#"
+                        href="/"
                         onClick={() => handleLinkClick('Главная')}
                         className={activeLink === 'Главная' ? 'active' : ''}
                     >
@@ -47,8 +48,9 @@ export default function ButtonAppBar() {
                     >
                         Наша продукция
                     </a>
+
                     <a
-                        href="#"
+                        href="useful"
                         onClick={() => handleLinkClick('Полезное')}
                         className={activeLink === 'Полезное' ? 'active' : ''}
                     >
@@ -62,7 +64,7 @@ export default function ButtonAppBar() {
                         Услуги
                     </a>
                     <a
-                        href="#"
+                        href="/contacts"
                         onClick={() => handleLinkClick('Контакты')}
                         className={activeLink === 'Контакты' ? 'active' : ''}
                     >

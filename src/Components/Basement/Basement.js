@@ -4,7 +4,6 @@ import logo_podem28 from "../Img/logo_podem28.svg"
 export default function Basement() {
     return (
         <div className="basement">
-
             <div className="logo-container">
                 <img className = "logo" src= {logo_podem28}/>
             </div>
@@ -14,8 +13,8 @@ export default function Basement() {
                 <div className="text">Навигация</div>
 
                 <div className="text_infos">
-                    <a href="#" className="text_all">Главная</a>
-                    <a href="#" className="text_all">Полезное</a>
+                    <a href="/" className="text_all">Главная</a>
+                    <a href="/useful" className="text_all">Полезное</a>
                     <a href="#" className="text_all">Наша Продукция</a>
 
                 </div>
