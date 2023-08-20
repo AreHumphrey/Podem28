@@ -1,68 +1,48 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState, useRef} from 'react';
 import './Header.css';
 import SearchBox from './Search/Search';
 import Catalog from './Catalog/Catalog';
+import {useClickOutside} from "./useClickOutside";
 
 export default function ButtonAppBar() {
-    const [isOpen, setIsOpen] = useState(false);
     const [activeLink, setActiveLink] = useState('');
-
-    const toggleDropdown = () => {
-        setIsOpen(!isOpen);
-    };
-
     const handleLinkClick = (link) => {
         setActiveLink(link);
     };
-
-    useEffect(() => {
-        const handleOutsideClick = (event) => {
-            if (!event.target.matches('.TextContainer a')) {
-                setActiveLink('');
-            }
-        };
-
-        window.addEventListener('click', handleOutsideClick);
-
-        return () => {
-            window.removeEventListener('click', handleOutsideClick);
-        };
-    }, []);
+    const [isOpen, setOpen] = useState(false);
+    const menuRef = useRef(null);
+    useClickOutside(menuRef, () => {
+        if (isOpen) setTimeout(() => setOpen(false), 50);
+    });
 
     return (
         <div className="App">
             <div className="Main_app">
                 <div className="TextContainer">
                     <a
-                        href="#"
+                        href="/"
                         onClick={() => handleLinkClick('Главная')}
                         className={activeLink === 'Главная' ? 'active' : ''}
                     >
                         Главная
                     </a>
+
                     <a
-                        href="#"
-                        onClick={() => handleLinkClick('Наша продукция')}
-                        className={activeLink === 'Наша продукция' ? 'active' : ''}
-                    >
-                        Наша продукция
-                    </a>
-                    <a
-                        href="#"
+                        href="useful"
                         onClick={() => handleLinkClick('Полезное')}
                         className={activeLink === 'Полезное' ? 'active' : ''}
                     >
                         Полезное
                     </a>
                     <a
-                        href="#"
+                        href="/services"
                         onClick={() => handleLinkClick('Услуги')}
                         className={activeLink === 'Услуги' ? 'active' : ''}
                     >
                         Услуги
                     </a>
                     <a
-                        href="#"
+                        href="/contacts"
                         onClick={() => handleLinkClick('Контакты')}
                         className={activeLink === 'Контакты' ? 'active' : ''}
                     >

@@ -46,20 +46,115 @@
 }
 
 .TextContainer a.active {
-    font-family: Raleway;
-    background-color: white;
-    color: #BB0B32;
-    height: 59px;
-    line-height: 59px;
-    width: auto;
-    align-items: center;
-
+    font-family: Raleway !important;
+    background-color: white !important;
+    color: #BB0B32 !important;
+    height: 59px !important;
+    line-height: 59px !important;
+    width: auto !important;
+    align-items: center !important;
 }
 
 .Search_app {
     background: white;
     height: 59px;
     width: 100%;
+
+}
+.menu-button{
+    color: white;
+    margin: 10px 40px;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 16px;
+    width: 150px;
+    background-color: #BB0B32;
+    border: none;
+}
+.menu-button.active{
+    font-family: Raleway !important;
+    background-color: white !important;
+    color: #BB0B32 !important;
+    height: 59px !important;
+    line-height: 59px !important;
+    align-items: center !important;
+    width: 150px;
+}
+.menu {
+    display: grid;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: #747474;
+    cursor: pointer;
+    position: fixed;
+    background-color: #fff;
+    padding: 10px;
+    left: 510px;
+    z-index: 3;
+}
+.menu {
+    position: fixed;
+    top: 8%;
+    right: 10px;
+    width: 152px;
+    padding: 25px;
+    background-color: #fff;
+    border: 1px solid #747474;
+    border-top: none;
+    opacity: 0;
+    transform: translateY(-10px);
+    visibility: hidden;
+    transition: 0.3s;
+}
+
+.menu.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu::before,
+.menu::after {
+    display: block;
+    content: "";
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    right: 15px;
+    border: 10px solid transparent;
+}
+
+.menu::before {
+    top: -20px;
+
+}
+
+.menu::after {
+    top: -19px;
+}
+
+.menu__list {
+    margin: -14px;
+    width: 100%;
+    padding: 0;
+    list-style-type: none;
+}
+
+.menu__item {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-size: 16px;
+    font-family: Raleway;
+    font-weight: 500;
+    color: #747474;
+    cursor: pointer;
+
+}
+
+.menu__item:nth-child(n + 2) {
+    margin-top: 15px;
 
 }
 

@@ -6,7 +6,7 @@ export default function Info() {
         <div className="Inf">
 
 
-            <a href="/certificate">
+            <a>
 
                 <svg width="134" height="164" viewBox="0 0 134 164" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path
@@ -32,7 +32,7 @@ export default function Info() {
 
             </a>
 
-            <a href="/location">
+            <a>
 
                 <svg width="110" height="157" viewBox="0 0 110 157" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path
@@ -58,7 +58,7 @@ export default function Info() {
             </a>
 
 
-            <a href="/help">
+            <a>
 
                 <svg width="169" height="163" viewBox="0 0 169 163" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path

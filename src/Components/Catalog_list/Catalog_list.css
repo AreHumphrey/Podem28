@@ -11,10 +11,21 @@
     border-right: 187px solid rgba(217, 217, 217, 1);
     padding-top: 60px;
     padding-bottom: 60px;
-    border-top: 1px solid #717171;
-    border-bottom: 1px solid #717171;
+    border-top: 2px solid #afafaf;
+    border-bottom: 2px solid #afafaf;
+
+
 }
 
+.svg1{
+    position: absolute;
+    left: 0;
+}
+.svg2{
+    position: absolute;
+    right: 0;
+    transform: scaleX(-1);
+}
 .product {
     background-color: #FFF;
     border: 1px solid #717171;
@@ -28,6 +39,7 @@
     justify-content: flex-start;
     stroke-width: 1px;
     stroke: #717171;
+    clip-path: inset(0);
 }
 
 .product img {
