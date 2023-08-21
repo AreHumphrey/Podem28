@@ -1,12 +1,12 @@
 import React from "react";
 import "./Basement.css";
-import logo_podem28 from "../Img/logo_podem28.svg"
+import logo from "../Img/logo__podem28.svg"
+
 export default function Basement() {
     return (
         <div className="basement">
-            <div className="logo-container">
-                <img className = "logo" src= {logo_podem28}/>
-            </div>
+
+            <img className="logo" src={logo}/>
 
             <div className="column">
 

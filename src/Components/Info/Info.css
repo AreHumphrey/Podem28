@@ -30,7 +30,6 @@
     margin-right: -70px;
 }
 
-
 .App-header {
     z-index: 0;
     background-color: #282c34;
@@ -42,7 +41,6 @@
     font-size: calc(10px + 2vmin);
     color: white;
 }
-
 
 .text_info {
     margin-bottom: 5px;
@@ -75,7 +73,6 @@ a {
 }
 
 .icon {
-
     vertical-align: center;
     flex-grow: 1;
     z-index: 0;

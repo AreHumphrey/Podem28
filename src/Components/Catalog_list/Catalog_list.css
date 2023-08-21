@@ -17,15 +17,17 @@
 
 }
 
-.svg1{
+.svg1 {
     position: absolute;
     left: 0;
 }
-.svg2{
+
+.svg2 {
     position: absolute;
     right: 0;
     transform: scaleX(-1);
 }
+
 .product {
     background-color: #FFF;
     border: 1px solid #717171;
@@ -50,6 +52,12 @@
     display: flex;
 }
 
+.product:hover img {
+    max-width: 90%;
+    max-height: 60%;
+}
+
+
 .product-name {
     margin-top: auto;
     color: #717171;
@@ -68,4 +76,10 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+}
+
+.product:hover .product-name {
+    transform: scale(1.05);
+
+
 }

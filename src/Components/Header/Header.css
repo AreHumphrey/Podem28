@@ -55,6 +55,18 @@
     align-items: center !important;
 }
 
+.TextContainer a:hover {
+    font-family: Raleway !important;
+    background-color: white !important;
+    color: #BB0B32 !important;
+    height: 59px !important;
+    line-height: 59px !important;
+    width: auto !important;
+    align-items: center !important;
+}
+
+
+
 .Search_app {
     background: white;
     height: 59px;
@@ -114,6 +126,7 @@
     visibility: visible;
 }
 
+
 .menu::before,
 .menu::after {
     display: block;
@@ -157,5 +170,14 @@
     margin-top: 15px;
 
 }
+
+.logo_header{
+    width: 103px;
+    height: 99px;
+    transform: translateX(-330px) translateY(34px);
+}
+
+
+
 
 

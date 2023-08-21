@@ -3,6 +3,7 @@ import './Header.css';
 import SearchBox from './Search/Search';
 import Catalog from './Catalog/Catalog';
 import {useClickOutside} from "./useClickOutside";
+import logo from "../Img/logo__podem28.svg";
 
 export default function ButtonAppBar() {
     const [activeLink, setActiveLink] = useState('');
@@ -17,7 +18,10 @@ export default function ButtonAppBar() {
 
     return (
         <div className="App">
+
             <div className="Main_app">
+                <img className="logo_header" src={logo}/>
+
                 <div className="TextContainer">
                     <a
                         href="/"

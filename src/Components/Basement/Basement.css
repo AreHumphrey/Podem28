@@ -93,4 +93,10 @@
     float: none;
     width: 100px;
 }
+.logo{
+    width: 252px;
+    height: 233px;
+    opacity: 0.5;
+    transform: translateX(-190px) translateY(30px);
+}
 
