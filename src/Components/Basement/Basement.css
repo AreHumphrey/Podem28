@@ -1,4 +1,3 @@
-
 .basement {
     position:relative;
     display: flex;
@@ -99,4 +98,3 @@
     opacity: 0.5;
     transform: translateX(-190px) translateY(30px);
 }
-

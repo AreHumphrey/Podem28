@@ -18,10 +18,10 @@ export default function ButtonAppBar() {
 
     return (
         <div className="App">
+            <div className="chains"/>
 
             <div className="Main_app">
                 <img className="logo_header" src={logo}/>
-
                 <div className="TextContainer">
                     <a
                         href="/"

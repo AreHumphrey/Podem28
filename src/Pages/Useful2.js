@@ -127,7 +127,8 @@ const UseFulPage2 = () => {
                     Покупатель _____________
                 </p>
                 <p>
-                    Дата продажи: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;МП: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Кол-во: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;шт
+                    Дата
+                    продажи: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;МП: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Кол-во: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;шт
                 </p>
                 <h2>СВЕДЕНИЯ О РЕМОНТЕ ЛЕБЕДКИ</h2>
                 <table cellSpacing="0" cellPadding="0">
@@ -167,7 +168,7 @@ const UseFulPage2 = () => {
                         </td>
                     </tr>
                     <tr>
-                        <td >
+                        <td>
                             <p>
                                 &nbsp;
                             </p>

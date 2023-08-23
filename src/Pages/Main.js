@@ -23,6 +23,7 @@ function Main() {
                     <div className="item-8"></div>
                 </Carousel>
             </div>
+
             <Info/>
             <Catalog_list/>
             <Gap/>
