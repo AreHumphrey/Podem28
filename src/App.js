@@ -8,6 +8,7 @@ import UseFulPage3 from "./Pages/Useful3";
 import UseFulPage4 from "./Pages/Useful4";
 import UseFulPage5 from "./Pages/Useful5";
 import Services from "./Pages/Services";
+import Bloki from "./Pages/Bloki";
 function App() {
 
     return (
@@ -17,6 +18,7 @@ function App() {
                 <Route path='/contacts' Component={ContactPage}></Route>
                 <Route path='/services' Component={Services}></Route>
                 <Route path='/useful' Component={UseFulPage}></Route>
+                <Route path="/bloki" Component={Bloki}></Route>
                 <Route path='/tekh-pasport-na-blok-montazhnyy-hqg-l-k1' Component={UseFulPage1}></Route>
                 <Route path='/pasport-na-lebyedku-ruchnuyu-barabannuyu-kanatnuyu-jhw-1t-2t-3t' Component={UseFulPage2}></Route>
                 <Route path='/pasport-i-instruktsiya-po-ekspluatatsii-lebyedok-ruchnykh-barabannykh-modeley-hwv' Component={UseFulPage3}></Route>

@@ -52,49 +52,49 @@ const Catalog = () => {
             <nav className={`dropdown_cat1 ${isOpen1 ? "active" : ""}`} ref={menuRef1}>
                 <ul className="cat__list1">
                     <li className="cat__item1">
-                        <a href={"/bloki"}> Блоки</a>
+                        <a href="/bloki" > Блоки</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/domkraty"}> Домкраты</a>
+                        <a href="/domkraty"> Домкраты</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/zakhvaty"}> Захваты</a>
+                        <a href="/zakhvaty"> Захваты</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/kanaty-i-verevki"}> Канаты и веревки</a>
+                        <a href="/kanaty-i-verevki"> Канаты и веревки</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/komplektuyushchie-dlya-strop"}> Комплектующие для строп</a>
+                        <a href="/komplektuyushchie-dlya-strop"> Комплектующие для строп</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/lebedki-elektricheskie"}> Лебедки электрические</a>
+                        <a href="/lebedki-elektricheskie"> Лебедки электрические</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/lenta-tekstilnaya"}>Лента текстильная</a>
+                        <a href="/lenta-tekstilnaya">Лента текстильная</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/mini-tali-elektricheskie"}> Мини тали электрические</a>
+                        <a href="/mini-tali-elektricheskie"> Мини тали электрические</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/ruchnye-lebedki"}> Ручные лебедки</a>
+                        <a href="/ruchnye-lebedki"> Ручные лебедки</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/ruchnye-tali"}> Ручные тали</a>
+                        <a href="/ruchnye-tali"> Ручные тали</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/sredstva-krepleniya-gruzov"}> Средства крепления грузов</a>
+                        <a href="/sredstva-krepleniya-gruzov"> Средства крепления грузов</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/stropy-gruzovye-iz-stalnogo-kanata"}> Стропы грузовые из стального каната</a>
+                        <a href="/stropy-gruzovye-iz-stalnogo-kanata"> Стропы грузовые из стального каната</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/stropy-gruzovye-tekstilnye"}> Стропы грузовые текстильные</a>
+                        <a href="/stropy-gruzovye-tekstilnye"> Стропы грузовые текстильные</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/stropy-gruzovye-tsepnye"}> Стропы грузовые цепные</a>
+                        <a href="/stropy-gruzovye-tsepnye"> Стропы грузовые цепные</a>
                     </li>
                     <li className="cat__item1">
-                        <a href={"/elektricheskie-tali"}> Электрические тали</a>
+                        <a href="/elektricheskie-tali"> Электрические тали</a>
                     </li>
 
 

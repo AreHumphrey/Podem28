@@ -23,7 +23,7 @@ import img_20 from "../Img/img_20.jpg"
 
 const Catalog_list = () => {
     const products = [
-        {id: 1, name: "Комплектующие для строп", image: img_1},
+        {id: 1, href:"/bloki", name: "Комплектующие для строп", image: img_1},
         {id: 2, name: "Ручные лебедки", image: img_2},
         {id: 3, name: "Ручные тали", image: img_3},
         {id: 4, name: "Средства крепления грузов", image: img_4},
