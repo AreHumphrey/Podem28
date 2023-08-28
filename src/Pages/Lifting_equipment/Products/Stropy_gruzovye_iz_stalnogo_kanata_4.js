@@ -1,0 +1,260 @@
+import React from 'react';
+import ButtonAppBar from "../../../Components/Header/Header"
+import '../../Pages.css'
+import Basement from "../../../Components/Basement/Basement";
+import Gap from "../../../Components/Gap/Gap";
+import img_3 from "../../../Components/Img/img_4_stropy-gruzovye-iz-stalnogo-kanata.jpg"
+
+const Stropy_gruzovye_iz_stalnogo_kanata_4 = () => {
+    return (
+        <div className="all_frame">
+            <ButtonAppBar/>
+            <div className="pages_text">
+                <h2>ДВУХВЕТВЕВЫЕ</h2>
+                <div className="container_foto">
+                    <img src={img_3}></img>
+                    <table border="1">
+                        <tbody>
+                        <tr>
+                            <td>
+                                Строп
+                            </td>
+                            <td>
+                                Ветка канатная
+                            </td>
+                            <td>
+                                г/п стропа, т
+                            </td>
+                            <td>
+                                Диаметр каната, мм
+                            </td>
+                        </tr>
+                        <tr>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-0,63
+                            </td>
+                            <td>
+                                ВК-0,5
+                            </td>
+                            <td>
+                                0,6
+                            </td>
+                            <td>
+                                7
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-0,8
+                            </td>
+                            <td>
+                                ВК-0,63
+                            </td>
+                            <td>
+                                0,8
+                            </td>
+                            <td>
+                                8
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-1,0
+                            </td>
+                            <td>
+                                ВК-0,8
+                            </td>
+                            <td>
+                                1
+                            </td>
+                            <td>
+                                10
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-1,25
+                            </td>
+                            <td>
+                                ВК-1,0
+                            </td>
+                            <td>
+                                1,3
+                            </td>
+                            <td>
+                                12
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-1,6
+                            </td>
+                            <td>
+                                ВК-1,25
+                            </td>
+                            <td>
+                                1,6
+                            </td>
+                            <td>
+                                12
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-2,0
+                            </td>
+                            <td>
+                                ВК-1,6
+                            </td>
+                            <td>
+                                2
+                            </td>
+                            <td>
+                                14
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-2,5
+                            </td>
+                            <td>
+                                ВК-2,0
+                            </td>
+                            <td>
+                                2,5
+                            </td>
+                            <td>
+                                15
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-3,2
+                            </td>
+                            <td>
+                                ВК-2,5
+                            </td>
+                            <td>
+                                3,2
+                            </td>
+                            <td>
+                                17
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-4,0
+                            </td>
+                            <td>
+                                ВК-3,2
+                            </td>
+                            <td>
+                                4
+                            </td>
+                            <td>
+                                20
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-5,0
+                            </td>
+                            <td>
+                                ВК-4,0
+                            </td>
+                            <td>
+                                5
+                            </td>
+                            <td>
+                                22
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-6,3
+                            </td>
+                            <td>
+                                ВК-5,0
+                            </td>
+                            <td>
+                                6,3
+                            </td>
+                            <td>
+                                24
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-8,0
+                            </td>
+                            <td>
+                                ВК-6,3
+                            </td>
+                            <td>
+                                8
+                            </td>
+                            <td>
+                                27
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-10,0
+                            </td>
+                            <td>
+                                ВК-8,0
+                            </td>
+                            <td>
+                                10
+                            </td>
+                            <td>
+                                31
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-12,5
+                            </td>
+                            <td>
+                                ВК-10,0
+                            </td>
+                            <td>
+                                12,5
+                            </td>
+                            <td>
+                                33
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2СК-16,0
+                            </td>
+                            <td>
+                                ВК-12,5
+                            </td>
+                            <td>
+                                16,5
+                            </td>
+                            <td>
+                                39
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+                <p>- стандартно снабжены крюками с предохранителем. <br/></p>
+                <p>- на заказ также концевики: скобы, захваты для металла, крюки с предохранителем, крюки поворотные самозажимные и т.д. <br/></p>
+                <p>- коэффициент запаса прочности канатов стропов по отношению к расчетному разрывному усилию не менее 6.<br/></p>
+                <p>- коэффициент запаса прочности соединительных элементов (кроме каната) и захватов стропов по отношению к разрушающей нагрузке не менее 5.<br/></p>
+            </div>
+            <Gap/>
+            <Basement/>
+
+        </div>
+    );
+}
+
+export default Stropy_gruzovye_iz_stalnogo_kanata_4;

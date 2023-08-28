@@ -1,0 +1,29 @@
+import React from 'react';
+import ButtonAppBar from "../../../Components/Header/Header"
+import '../../Pages.css'
+import Basement from "../../../Components/Basement/Basement";
+import Gap from "../../../Components/Gap/Gap";
+import img_3 from "../../../Components/Img/img_domkraty_3.jpg"
+
+const Domkrat_3 = () => {
+    return (
+        <div className="all_frame">
+            <ButtonAppBar/>
+            <div className="pages_text">
+                <h2>ДОМКРАТЫ ГИДРАВЛИЧЕСКИЕ БУТЫЛОЧНЫЕ</h2>
+                {/*<p>Данный тип домкрата находит свое применение преимущественно в промышленности. Модель JR отличается*/}
+                {/*    высокой степенью надежности конструкции и превосходно подходит для интенсивной работы.<br/></p>*/}
+                <div className="container_foto">
+                    <img src={img_3}></img>
+
+                </div>
+
+            </div>
+            <Gap/>
+            <Basement/>
+
+        </div>
+    );
+}
+
+export default Domkrat_3;
