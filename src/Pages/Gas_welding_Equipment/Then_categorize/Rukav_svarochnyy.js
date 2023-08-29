@@ -1,22 +1,22 @@
 import React from "react";
 import "../../Pages.css"
-import img_1 from "../../../Components/Img/img_1_provoloka_sploshnogo_secheniya.jpg"
-import img_2 from "../../../Components/Img/img_2_provoloka_sploshnogo_secheniya.jpg"
+import img_1 from "../../../Components/Img/img_rukav_svarochnyy_1.png"
+import img_2 from "../../../Components/Img/img_rukav_svarochnyy_2.jpg"
 
 import ButtonAppBar from "../../../Components/Header/Header";
 import Gap from "../../../Components/Gap/Gap";
 import Basement from "../../../Components/Basement/Basement";
-
-const Provoloka_sploshnogo_secheniya = () => {
+const Rukav_svarochnyy = () => {
     const products = [
-        {id: 1, href: "/provoloka_sploshnogo_secheniya_1", name: " СВАРОЧНАЯ ПРОВОЛОКА ОМЕДНЕННАЯ ER70S-6", image: img_1},
-        {id: 2, href: "/provoloka_sploshnogo_secheniya_2", name: "Проволока сварочная омедненная G3Si1", image: img_2},
+        {id: 1, href: "/rukav_svarochnyy_1", name: "Рукав БРТ", image: img_1},
+        {id: 2, href: "/rukav_svarochnyy_2", name: " Рукав ВРТ", image: img_2},
+
     ];
 
     return (
         <div>
             <ButtonAppBar/>
-            <h1 className="h1">Проволока сплошного сечения</h1>
+            <h1 className="h1">РУКАВ СВАРОЧНЫЙ</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>
@@ -33,4 +33,4 @@ const Provoloka_sploshnogo_secheniya = () => {
     );
 };
 
-export default Provoloka_sploshnogo_secheniya;
+export default Rukav_svarochnyy;

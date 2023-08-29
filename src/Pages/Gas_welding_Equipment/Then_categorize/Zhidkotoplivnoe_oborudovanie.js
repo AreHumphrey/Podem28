@@ -1,22 +1,23 @@
 import React from "react";
 import "../../Pages.css"
-import img_1 from "../../../Components/Img/img_1_provoloka_sploshnogo_secheniya.jpg"
-import img_2 from "../../../Components/Img/img_2_provoloka_sploshnogo_secheniya.jpg"
+import img_1 from "../../../Components/Img/img_zhidkotoplivnoe_oborudovanie_1.jpg"
+import img_2 from "../../../Components/Img/img_zhidkotoplivnoe_oborudovanie_2.jpg"
 
 import ButtonAppBar from "../../../Components/Header/Header";
 import Gap from "../../../Components/Gap/Gap";
 import Basement from "../../../Components/Basement/Basement";
 
-const Provoloka_sploshnogo_secheniya = () => {
+const Zhidkotoplivnoe_oborudovanie = () => {
     const products = [
-        {id: 1, href: "/provoloka_sploshnogo_secheniya_1", name: " СВАРОЧНАЯ ПРОВОЛОКА ОМЕДНЕННАЯ ER70S-6", image: img_1},
-        {id: 2, href: "/provoloka_sploshnogo_secheniya_2", name: "Проволока сварочная омедненная G3Si1", image: img_2},
+        {id: 1, href: "/zhidkotoplivnoe_oborudovanie_1", name: "Бачок БГ-08-1ДМ", image: img_1},
+        {id: 2, href: "/zhidkotoplivnoe_oborudovanie_2", name: " Резак \"Вогник\" 182 бензин", image: img_2},
+
     ];
 
     return (
         <div>
             <ButtonAppBar/>
-            <h1 className="h1">Проволока сплошного сечения</h1>
+            <h1 className="h1">Жидкотопливное оборудование</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>
@@ -33,4 +34,4 @@ const Provoloka_sploshnogo_secheniya = () => {
     );
 };
 
-export default Provoloka_sploshnogo_secheniya;
+export default Zhidkotoplivnoe_oborudovanie;

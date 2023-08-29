@@ -218,6 +218,9 @@ const Catalog = () => {
             </button>
             <nav className={`dropdown_cat4 ${isOpen4 ? "active" : ""}`} ref={menuRef4}>
                 <ul className="cat__list4">
+                    <li className="cat__item1">
+                        <a href={"/gazosvarochnoe-oborudovanie_1"}> Газосварочное оборудование</a>
+                    </li>
 
                     <li className="cat__item1">
                         <a href={"/svarochnye-apparaty-gorelki"}> Сварочные аппараты, горелки</a>

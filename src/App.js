@@ -334,6 +334,136 @@ import Krugi_otreznye_13 from "./Pages/Gas_welding_Equipment/Then_categorize/Pro
 import Krugi_otreznye_14 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Krugi_otreznye_14";
 import Krugi_otreznye_15 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Krugi_otreznye_15";
 import Krugi_otreznye_16 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Krugi_otreznye_16";
+import Gazosvarochnoe_oborudovanie_1 from "./Pages/Gas_welding_Equipment/Gazosvarochnoe_oborudovanie_1";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_1";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_2";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_3
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_3";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_4
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_4";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_5
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_5";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_6
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_6";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_7
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_7";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_8
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_8";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11";
+import Reduktory_ballonnye from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye";
+import Reduktory_ballonnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye_1";
+import Reduktory_ballonnye_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye_2";
+import Reduktory_ballonnye_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye_3";
+import Reduktory_ballonnye_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye_4";
+import Reduktory_ballonnye_5 from "./Pages/Gas_welding_Equipment/Then_categorize/Reduktory_ballonnye_5";
+import Reduktory_ballonnye_1_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_1.1";
+import Reduktory_ballonnye_1_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_1.2";
+import Reduktory_ballonnye_2_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_2.1";
+import Reduktory_ballonnye_3_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_3.1";
+import Reduktory_ballonnye_4_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_4.1";
+import Reduktory_ballonnye_5_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Reduktory_ballonnye_5.1";
+import Ballony_generatory_kolpaki from "./Pages/Gas_welding_Equipment/Then_categorize/Ballony_generatory_kolpaki";
+import Ballony_generatory_kolpaki_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_1";
+import Ballony_generatory_kolpaki_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_2";
+import Ballony_generatory_kolpaki_3
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_3";
+import Ballony_generatory_kolpaki_4
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_4";
+import Ballony_generatory_kolpaki_5
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_5";
+import Ballony_generatory_kolpaki_6
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_6";
+import Ballony_generatory_kolpaki_7
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ballony_generatory_kolpaki_7";
+import Ventili_i_zapchasti_k_nim from "./Pages/Gas_welding_Equipment/Then_categorize/Ventili_i_zapchasti_k_nim";
+import Ventili_i_zapchasti_k_nim_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ventili_i_zapchasti_k_nim_1";
+import Ventili_i_zapchasti_k_nim_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ventili_i_zapchasti_k_nim_2";
+import Gazovye_gorelki_i_payalniki from "./Pages/Gas_welding_Equipment/Then_categorize/Gazovye_gorelki_i_payalniki";
+import Gazovye_gorelki_i_payalniki_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gazovye_gorelki_i_payalniki_1";
+import Gazovye_gorelki_i_payalniki_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gazovye_gorelki_i_payalniki_2";
+import Gazovye_gorelki_i_payalniki_3
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gazovye_gorelki_i_payalniki_3";
+import Gazovye_gorelki_i_payalniki_4
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gazovye_gorelki_i_payalniki_4";
+import Gorelki_gazovozdushnye from "./Pages/Gas_welding_Equipment/Then_categorize/Gorelki_gazovozdushnye";
+import Gorelki_gazovozdushnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_1";
+import Gorelki_gazovozdushnye_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_2";
+import Gorelki_gazovozdushnye_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_3";
+import Gorelki_gazovozdushnye_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_4";
+import Gorelki_gazovozdushnye_5 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_5";
+import Gorelki_gazovozdushnye_6 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_6";
+import Gorelki_gazovozdushnye_7 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_7";
+import Gorelki_gazovozdushnye_8 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_8";
+import Gorelki_gazovozdushnye_9 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_9";
+import Gorelki_gazovozdushnye_10
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_gazovozdushnye_10";
+import Gorelki_svarochnye from "./Pages/Gas_welding_Equipment/Then_categorize/Gorelki_svarochnye";
+import Gorelki_svarochnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_svarochnye_1";
+import Gorelki_svarochnye_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_svarochnye_2";
+import Gorelki_svarochnye_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Gorelki_svarochnye_3";
+import Zhidkotoplivnoe_oborudovanie from "./Pages/Gas_welding_Equipment/Then_categorize/Zhidkotoplivnoe_oborudovanie";
+import Zhidkotoplivnoe_oborudovanie_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Zhidkotoplivnoe_oborudovanie_1";
+import Zhidkotoplivnoe_oborudovanie_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Zhidkotoplivnoe_oborudovanie_2";
+import Posty_gazosvarochnye from "./Pages/Gas_welding_Equipment/Then_categorize/Posty_gazosvarochnye";
+import Posty_gazosvarochnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Posty_gazosvarochnye_1";
+import Rezaki_gazovye from "./Pages/Gas_welding_Equipment/Then_categorize/Rezaki_gazovye";
+import Rezaki_gazovye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_1";
+import Rezaki_gazovye_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_2";
+import Rezaki_gazovye_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_3";
+import Rezaki_gazovye_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_4";
+import Rezaki_gazovye_5 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_5";
+import Rezaki_gazovye_6 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_6";
+import Rezaki_gazovye_7 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rezaki_gazovye_7";
+import Rukav_svarochnyy from "./Pages/Gas_welding_Equipment/Then_categorize/Rukav_svarochnyy";
+import Rukav_svarochnyy_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Rukav_svarochnyy_1";
+import Rukav_svarochnyy_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Rukav_svarochnyy_2";
+import Rukav_svarochnyy_1_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_1";
+import Rukav_svarochnyy_1_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_2";
+import Rukav_svarochnyy_1_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_3";
+import Rukav_svarochnyy_1_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_4";
+import Rukav_svarochnyy_1_5 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_5";
+import Rukav_svarochnyy_1_6 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_1_6";
+import Rukav_svarochnyy_2_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_1";
+import Rukav_svarochnyy_2_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_2";
+import Rukav_svarochnyy_2_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_3";
+import Rukav_svarochnyy_2_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_4";
+import Rukav_svarochnyy_2_5 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_5";
+import Rukav_svarochnyy_2_6 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Rukav_svarochnyy_2_6";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Ustroystva_predokhranitelnye_dlya_gazosvarki";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_1
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_1";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_2
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_2";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_3
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_3";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_4
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_4";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_5
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_5";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_6
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_6";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_7
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_7";
+import Ustroystva_predokhranitelnye_dlya_gazosvarki_8
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_8";
 
 function App() {
 
@@ -504,6 +634,8 @@ function App() {
 
                 <Route path="/prisposobleniya-i-osnastka" Component={Prisposobleniya_i_osnastka__1}></Route>
 
+                <Route path="/gazosvarochnoe-oborudovanie_1" Component={Gazosvarochnoe_oborudovanie_1}></Route>
+
                 <Route path="/krugi" Component={Krugi}></Route>
 
                 <Route path="/Gorelki-dlya-poluavtomatov" Component={Gorelki}></Route>
@@ -671,6 +803,128 @@ function App() {
                 <Route path="/shchitki_svarochnye_4" Component={Shchitki_svarochnye_4}></Route>
                 <Route path="/shchitki_svarochnye_5" Component={Shchitki_svarochnye_5}></Route>
                 <Route path="/shchitki_svarochnye_6" Component={Shchitki_svarochnye_6}></Route>
+
+                <Route path="/komplektuyushchie-k-reduktoram-i-regulyatoram-manometry" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry}></Route>
+
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_1" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_1}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_2" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_2}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_3" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_3}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_4" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_4}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_5" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_5}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_6" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_6}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_7" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_7}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_8" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_8}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.1" Component={Reduktory_ballonnye}></Route>
+                <Route path="/reduktory_ballonnye_1" Component={Reduktory_ballonnye_1}></Route>
+                <Route path="/reduktory_ballonnye_2" Component={Reduktory_ballonnye_2}></Route>
+                <Route path="/reduktory_ballonnye_3" Component={Reduktory_ballonnye_3}></Route>
+                <Route path="/reduktory_ballonnye_4" Component={Reduktory_ballonnye_4}></Route>
+                <Route path="/reduktory_ballonnye_5" Component={Reduktory_ballonnye_5}></Route>
+
+                <Route path="/reduktory_ballonnye_1.1" Component={Reduktory_ballonnye_1_1}></Route>
+                <Route path="/reduktory_ballonnye_1.2" Component={Reduktory_ballonnye_1_2}></Route>
+
+                <Route path="/reduktory_ballonnye_2.1" Component={Reduktory_ballonnye_2_1}></Route>
+
+                <Route path="/reduktory_ballonnye_3.1" Component={Reduktory_ballonnye_3_1}></Route>
+
+                <Route path="/reduktory_ballonnye_4.1" Component={Reduktory_ballonnye_4_1}></Route>
+
+                <Route path="/reduktory_ballonnye_5.1" Component={Reduktory_ballonnye_5_1}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.3" Component={Ballony_generatory_kolpaki}></Route>
+
+                <Route path="/ballony_generatory_kolpaki_1" Component={Ballony_generatory_kolpaki_1}></Route>
+                <Route path="/ballony_generatory_kolpaki_2" Component={Ballony_generatory_kolpaki_2}></Route>
+                <Route path="/ballony_generatory_kolpaki_3" Component={Ballony_generatory_kolpaki_3}></Route>
+                <Route path="/ballony_generatory_kolpaki_4" Component={Ballony_generatory_kolpaki_4}></Route>
+                <Route path="/ballony_generatory_kolpaki_5" Component={Ballony_generatory_kolpaki_5}></Route>
+                <Route path="/ballony_generatory_kolpaki_6" Component={Ballony_generatory_kolpaki_6}></Route>
+                <Route path="/ballony_generatory_kolpaki_7" Component={Ballony_generatory_kolpaki_7}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.4" Component={Ventili_i_zapchasti_k_nim}></Route>
+
+                <Route path="/ventili_i_zapchasti_k_nim_1" Component={Ventili_i_zapchasti_k_nim_1}></Route>
+                <Route path="/ventili_i_zapchasti_k_nim_2" Component={Ventili_i_zapchasti_k_nim_2}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.5" Component={Gazovye_gorelki_i_payalniki}></Route>
+
+                <Route path="/gazovye_gorelki_i_payalniki_1" Component={Gazovye_gorelki_i_payalniki_1}></Route>
+                <Route path="/gazovye_gorelki_i_payalniki_2" Component={Gazovye_gorelki_i_payalniki_2}></Route>
+                <Route path="/gazovye_gorelki_i_payalniki_3" Component={Gazovye_gorelki_i_payalniki_3}></Route>
+                <Route path="/gazovye_gorelki_i_payalniki_4" Component={Gazovye_gorelki_i_payalniki_4}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.6" Component={Gorelki_gazovozdushnye}></Route>
+
+                <Route path="/gorelki_gazovozdushnye_1" Component={Gorelki_gazovozdushnye_1}></Route>
+                <Route path="/gorelki_gazovozdushnye_2" Component={Gorelki_gazovozdushnye_2}></Route>
+                <Route path="/gorelki_gazovozdushnye_3" Component={Gorelki_gazovozdushnye_3}></Route>
+                <Route path="/gorelki_gazovozdushnye_4" Component={Gorelki_gazovozdushnye_4}></Route>
+                <Route path="/gorelki_gazovozdushnye_5" Component={Gorelki_gazovozdushnye_5}></Route>
+                <Route path="/gorelki_gazovozdushnye_6" Component={Gorelki_gazovozdushnye_6}></Route>
+                <Route path="/gorelki_gazovozdushnye_7" Component={Gorelki_gazovozdushnye_7}></Route>
+                <Route path="/gorelki_gazovozdushnye_8" Component={Gorelki_gazovozdushnye_8}></Route>
+                <Route path="/gorelki_gazovozdushnye_9" Component={Gorelki_gazovozdushnye_9}></Route>
+                <Route path="/gorelki_gazovozdushnye_10" Component={Gorelki_gazovozdushnye_10}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.7" Component={Gorelki_svarochnye}></Route>
+
+                <Route path="/gorelki_svarochnye_1" Component={Gorelki_svarochnye_1}></Route>
+                <Route path="/gorelki_svarochnye_2" Component={Gorelki_svarochnye_2}></Route>
+                <Route path="/gorelki_svarochnye_3" Component={Gorelki_svarochnye_3}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.8" Component={Zhidkotoplivnoe_oborudovanie}></Route>
+
+                <Route path="/zhidkotoplivnoe_oborudovanie_1" Component={Zhidkotoplivnoe_oborudovanie_1}></Route>
+                <Route path="/zhidkotoplivnoe_oborudovanie_2" Component={Zhidkotoplivnoe_oborudovanie_2}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.9" Component={Posty_gazosvarochnye}></Route>
+
+                <Route path="/posty_gazosvarochnye_1" Component={Posty_gazosvarochnye_1}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.10" Component={Rezaki_gazovye}></Route>
+
+                <Route path="/rezaki_gazovye_1" Component={Rezaki_gazovye_1}></Route>
+                <Route path="/rezaki_gazovye_2" Component={Rezaki_gazovye_2}></Route>
+                <Route path="/rezaki_gazovye_3" Component={Rezaki_gazovye_3}></Route>
+                <Route path="/rezaki_gazovye_4" Component={Rezaki_gazovye_4}></Route>
+                <Route path="/rezaki_gazovye_5" Component={Rezaki_gazovye_5}></Route>
+                <Route path="/rezaki_gazovye_6" Component={Rezaki_gazovye_6}></Route>
+                <Route path="/rezaki_gazovye_7" Component={Rezaki_gazovye_7}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.11" Component={Rukav_svarochnyy}></Route>
+
+                <Route path="/rukav_svarochnyy_1" Component={Rukav_svarochnyy_1}></Route>
+                <Route path="/rukav_svarochnyy_2" Component={Rukav_svarochnyy_2}></Route>
+
+                <Route path="/rukav_svarochnyy_1_1" Component={Rukav_svarochnyy_1_1}></Route>
+                <Route path="/rukav_svarochnyy_1_2" Component={Rukav_svarochnyy_1_2}></Route>
+                <Route path="/rukav_svarochnyy_1_3" Component={Rukav_svarochnyy_1_3}></Route>
+                <Route path="/rukav_svarochnyy_1_4" Component={Rukav_svarochnyy_1_4}></Route>
+                <Route path="/rukav_svarochnyy_1_5" Component={Rukav_svarochnyy_1_5}></Route>
+                <Route path="/rukav_svarochnyy_1_6" Component={Rukav_svarochnyy_1_6}></Route>
+
+                <Route path="/rukav_svarochnyy_2_1" Component={Rukav_svarochnyy_2_1}></Route>
+                <Route path="/rukav_svarochnyy_2_2" Component={Rukav_svarochnyy_2_2}></Route>
+                <Route path="/rukav_svarochnyy_2_3" Component={Rukav_svarochnyy_2_3}></Route>
+                <Route path="/rukav_svarochnyy_2_4" Component={Rukav_svarochnyy_2_4}></Route>
+                <Route path="/rukav_svarochnyy_2_5" Component={Rukav_svarochnyy_2_5}></Route>
+                <Route path="/rukav_svarochnyy_2_6" Component={Rukav_svarochnyy_2_6}></Route>
+
+                <Route path="/gazosvarochnoe_oborudovanie_1.12" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki}></Route>
+
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_1" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_1}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_2" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_2}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_3" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_3}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_4" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_4}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_5" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_5}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_6" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_6}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_7" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_7}></Route>
+                <Route path="/ustroystva_predokhranitelnye_dlya_gazosvarki_8" Component={Ustroystva_predokhranitelnye_dlya_gazosvarki_8}></Route>
 
                 <Route path="/sredstva_zashchity_golovy_organov_zreniya_i_dykhaniya_1"
                        Component={Sredstva_zashchity_golovy_organov_zreniya_i_dykhaniya_1}></Route>

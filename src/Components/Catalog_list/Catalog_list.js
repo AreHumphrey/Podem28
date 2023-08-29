@@ -23,26 +23,26 @@ import img_20 from "../Img/img_20.jpg"
 
 const Catalog_list = () => {
     const products = [
-        {id: 1, href:"/bloki", name: "Комплектующие для строп", image: img_1},
-        {id: 2, href:"/domkraty", name: "Ручные лебедки", image: img_2},
-        {id: 3, name: "Ручные тали", image: img_3},
-        {id: 4, name: "Средства крепления грузов", image: img_4},
-        {id: 5, name: "Стропы грузовые текстильные", image: img_5},
-        {id: 6, name: "Стропы грузовые цепные", image: img_6},
-        {id: 7, name: "Стеллажи", image: img_7},
-        {id: 8, name: "Колеса", image: img_8},
-        {id: 9, name: "Леса строительные", image: img_9},
-        {id: 10, name: "Вышка тура", image: img_10},
-        {id: 11, name: "Редукторы баллоные", image: img_11},
-        {id: 12, name: "Комлектующие к редукторам и регулятором", image: img_12},
-        {id: 13, name: "Горелки сварочные", image: img_13},
-        {id: 14, name: "Резаки газовые", image: img_14},
-        {id: 15, name: "Сварочные аппараты, горелки", image: img_15},
-        {id: 16, name: "Проволока сплошного сечения", image: img_16},
-        {id: 17, name: "Аксессуары", image: img_17},
-        {id: 18, name: "Клеммы сварочные", image: img_18},
-        {id: 19, name: "Сварочные электрододержатели", image: img_19},
-        {id: 20, name: "Круги отрезные", image: img_20},
+        {id: 1, href:"/komplektuyushchie-dlya-strop", name: "Комплектующие для строп", image: img_1},
+        {id: 2, href:"/ruchnye-lebedki", name: "Ручные лебедки", image: img_2},
+        {id: 3, href:"/ruchnye-tali", name: "Ручные тали", image: img_3},
+        {id: 4, href:"/sredstva-krepleniya-gruzov", name: "Средства крепления грузов", image: img_4},
+        {id: 5, href:"/stropy-gruzovye-tekstilnye", name: "Стропы грузовые текстильные", image: img_5},
+        {id: 6, href:"/stropy-gruzovye-tsepnye", name: "Стропы грузовые цепные", image: img_6},
+        {id: 7, href:"/stelazhi", name: "Стеллажи", image: img_7},
+        {id: 8, href:"/kolesa", name: "Колеса", image: img_8},
+        {id: 9, href:"/lesa-stroitelnye", name: "Леса строительные", image: img_9},
+        {id: 10, href:"/vyshka-tura", name: "Вышка тура", image: img_10},
+        {id: 11, href:"/gazosvarochnoe_oborudovanie_1.1", name: "Редукторы баллоные", image: img_11},
+        {id: 12, href:"/komplektuyushchie-k-reduktoram-i-regulyatoram-manometry", name: "Комлектующие к редукторам и регулятором", image: img_12},
+        {id: 13, href:"/gazosvarochnoe_oborudovanie_1.7", name: "Горелки сварочные", image: img_13},
+        {id: 14, href:"/gazosvarochnoe_oborudovanie_1.10", name: "Резаки газовые", image: img_14},
+        {id: 15, href:"/svarochnye-apparaty-gorelki", name: "Сварочные аппараты, горелки", image: img_15},
+        {id: 16, href:"/provoloka-sploshnogo-secheniya", name: "Проволока сплошного сечения", image: img_16},
+        {id: 17, href:"/aksessuary", name: "Аксессуары", image: img_17},
+        {id: 18, href:"/klemmy-svarochnye", name: "Клеммы сварочные", image: img_18},
+        {id: 19, href:"/svarochnye-elektrododerzhateli", name: "Сварочные электрододержатели", image: img_19},
+        {id: 20, href:"/krugi-otreznye", name: "Круги отрезные", image: img_20},
 
     ];
 
@@ -53,7 +53,7 @@ const Catalog_list = () => {
                 {products.map((product) => (
                     <div className="product" key={product.id}>
                         <img src={product.image} alt="Product Image"/>
-                        <a href="#" className="product-name">{product.name}</a>
+                        <a href={product.href} className="product-name">{product.name}</a>
                     </div>
                 ))}
 

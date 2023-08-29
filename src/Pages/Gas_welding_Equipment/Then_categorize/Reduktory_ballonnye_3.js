@@ -1,22 +1,21 @@
 import React from "react";
 import "../../Pages.css"
-import img_1 from "../../../Components/Img/img_1_provoloka_sploshnogo_secheniya.jpg"
-import img_2 from "../../../Components/Img/img_2_provoloka_sploshnogo_secheniya.jpg"
+import img_1 from "../../../Components/Img/img_reduktory_ballonnye_3.1.png"
+
+
 
 import ButtonAppBar from "../../../Components/Header/Header";
 import Gap from "../../../Components/Gap/Gap";
 import Basement from "../../../Components/Basement/Basement";
-
-const Provoloka_sploshnogo_secheniya = () => {
+const Reduktory_ballonnye_3 = () => {
     const products = [
-        {id: 1, href: "/provoloka_sploshnogo_secheniya_1", name: " СВАРОЧНАЯ ПРОВОЛОКА ОМЕДНЕННАЯ ER70S-6", image: img_1},
-        {id: 2, href: "/provoloka_sploshnogo_secheniya_2", name: "Проволока сварочная омедненная G3Si1", image: img_2},
+        {id: 1, href: "/reduktory_ballonnye_3.1", name: "АР-40-КР1-м", image: img_1},
     ];
 
     return (
         <div>
             <ButtonAppBar/>
-            <h1 className="h1">Проволока сплошного сечения</h1>
+            <h1 className="h1">Редукторы аргоновые</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>
@@ -33,4 +32,4 @@ const Provoloka_sploshnogo_secheniya = () => {
     );
 };
 
-export default Provoloka_sploshnogo_secheniya;
+export default Reduktory_ballonnye_3;
