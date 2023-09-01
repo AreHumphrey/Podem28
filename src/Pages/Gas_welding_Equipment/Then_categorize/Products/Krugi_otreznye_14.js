@@ -9,12 +9,13 @@ const Krugi_otreznye_14 = () => {
 
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
-            <h1 className="h1">КРУГ ОТРЕЗНОЙ 230Х1,8Х22,2 RUSSLAND</h1>
-
-            <div className="container_foto">
-                <img src={img_1}></img>
+            <div className="pages_text">
+                <h1 className="h1">КРУГ ОТРЕЗНОЙ 230Х1,8Х22,2 RUSSLAND</h1>
+                <div className="container_foto">
+                    <img src={img_1}></img>
+                </div>
             </div>
             <Gap/>
             <Basement/>
