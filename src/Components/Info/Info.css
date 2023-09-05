@@ -71,7 +71,10 @@
 a {
     text-decoration: none;
 }
-
+.img_info{
+    width: 130px;
+    height: 187px;
+}
 .icon {
     vertical-align: center;
     flex-grow: 1;
@@ -80,3 +83,31 @@ a {
     grid-template-columns: repeat(3, 1fr);
 
 }
+
+@media (max-width: 768px) {
+    .Inf {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+        width: auto;
+    }
+
+    .Inf::after {
+        display: none;
+    }
+
+    .Inf svg {
+        width: 100px;
+        margin: 20px;
+    }
+    .info{
+
+        font-size: 20px;
+    }
+    .text_info {
+        font-size: 16px;
+    }
+}
+

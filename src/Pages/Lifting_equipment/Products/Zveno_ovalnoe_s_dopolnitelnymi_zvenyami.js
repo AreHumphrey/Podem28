@@ -14,7 +14,10 @@ const Zveno_1 = () => {
                 <p>Используется как верхний концевой элемент для сборки трех и четырехветвевых стропов.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" border="1">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td rowSpan="2">
@@ -595,7 +598,6 @@ const Zveno_1 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

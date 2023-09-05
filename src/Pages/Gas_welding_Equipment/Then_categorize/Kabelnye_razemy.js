@@ -21,7 +21,7 @@ const Kabelnye_razemy = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Кабельные разьемы</h1>
             <div className="catalog">

@@ -53,7 +53,7 @@ const Sredstva_zashchity_golovy_organov_zreniya_i_dykhaniya = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Средства защиты головы, органов зрения и дыхания
             </h1>

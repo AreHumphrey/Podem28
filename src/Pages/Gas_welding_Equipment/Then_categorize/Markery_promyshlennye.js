@@ -21,7 +21,7 @@ const Markery_promyshlennye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Маркеры промышленные</h1>
             <div className="catalog">

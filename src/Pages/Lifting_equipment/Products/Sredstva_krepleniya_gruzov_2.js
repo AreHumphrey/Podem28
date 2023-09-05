@@ -13,7 +13,10 @@ const Sredstva_krepleniya_gruzov_2 = () => {
                 <h2>СТЯЖНОЙ МЕХАНИЗМ ДЛЯ СТЯЖНЫХ РЕМНЕЙ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" border="1" cellPadding="0">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td rowSpan="2" align="center">
@@ -122,7 +125,6 @@ const Sredstva_krepleniya_gruzov_2 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

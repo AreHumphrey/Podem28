@@ -19,7 +19,10 @@ const Stropy_gruzovye_tsepnye_6 = () => {
                     - коэффициент запаса прочности 5:1.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table className="brd" cellSpacing="0" cellPadding="3" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>
@@ -75,7 +78,6 @@ const Stropy_gruzovye_tsepnye_6 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

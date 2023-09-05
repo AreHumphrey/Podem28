@@ -15,45 +15,47 @@ const Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_3 = () => {
                     присоединения редуктора к пропановому баллону.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellPadding="0" cellSpacing="0" width="509" border="1">
-                        <p><b>Технические характеристики:</b></p>
-                        <tbody>
-                        <tr className="odd">
-                            <td valign="top" width="424">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
+                    <p><b>Технические характеристики:</b></p>
+                    <tbody>
+                    <tr className="odd">
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Резьба
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			 W21.8 (Сп21,8)
 		</p>
  </span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td valign="top" width="424">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Размер под ключ
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			 27
 		</p>
  </span>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-
-                </div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
 
             </div>
             <Gap/>

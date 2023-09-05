@@ -21,7 +21,7 @@ const Reduktory_ballonnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">РЕДУКТОРЫ БАЛЛОННЫЕ</h1>
             <div className="catalog">

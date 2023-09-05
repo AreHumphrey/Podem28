@@ -11,7 +11,7 @@ const Vyshka_tura = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Вышка тура</h1>
             <div className="catalog">

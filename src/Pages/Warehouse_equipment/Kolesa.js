@@ -28,7 +28,7 @@ const Kolesa = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Колеса</h1>
             <div className="catalog">

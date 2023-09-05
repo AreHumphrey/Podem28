@@ -13,7 +13,10 @@ const Sredstva_krepleniya_gruzov_1 = () => {
                 <h2>КРЮКИ J-ОБРАЗНЫЕ ДВОЙНЫЕ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" border="1" cellPadding="0" align="center">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td rowSpan="2" align="center">
@@ -121,7 +124,6 @@ const Sredstva_krepleniya_gruzov_1 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

@@ -9,7 +9,7 @@ import Gap from "../Components/Gap/Gap"
 
 function Main() {
     return (
-        <div>
+        <div className="root">
             <ButtonAppBar/>
             <div className="content">
                 <Carousel>

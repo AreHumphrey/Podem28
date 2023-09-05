@@ -21,7 +21,7 @@ const Zashchita_svarshchika = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">ЗАЩИТА СВАРЩИКА</h1>
             <div className="catalog">

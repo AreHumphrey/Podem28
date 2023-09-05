@@ -43,7 +43,7 @@ const Krugi_otreznye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Круги отрезные</h1>
             <div className="catalog">

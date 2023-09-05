@@ -23,7 +23,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Стропы грузовые из стального каната</h1>
             <div className="catalog">

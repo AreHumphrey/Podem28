@@ -15,60 +15,63 @@ const Provoloka_sploshnogo_secheniya_2 = () => {
                     сварки</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table border="1" cellPadding="0" cellSpacing="0">
-                        <p><b>Химический состав %</b></p>
-                        <tbody>
-                        <tr>
-                            <td>
-                                C
-                            </td>
-                            <td>
-                                Mn
-                            </td>
-                            <td>
-                                Si
-                            </td>
-                            <td>
-                                P
-                            </td>
-                            <td>
-                                S
-                            </td>
-                            <td>
-                                Cr
-                            </td>
-                            <td>
-                                Ni
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                0,05-0,11
-                            </td>
-                            <td>
-                                1,8-2,1
-                            </td>
-                            <td>
-                                0,7-0,95
-                            </td>
-                            <td>
-                                &lt; 0,03
-                            </td>
-                            <td>
-                                &lt; 0,025
-                            </td>
-                            <td>
-                                &lt; 0,2
-                            </td>
-                            <td>
-                                &lt; 0,25
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
                 </div>
+                <div className="table-container">
+                    <table className="table" border="1">
+                    <p><b>Химический состав %</b></p>
+                    <tbody>
+                    <tr>
+                        <td>
+                            C
+                        </td>
+                        <td>
+                            Mn
+                        </td>
+                        <td>
+                            Si
+                        </td>
+                        <td>
+                            P
+                        </td>
+                        <td>
+                            S
+                        </td>
+                        <td>
+                            Cr
+                        </td>
+                        <td>
+                            Ni
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            0,05-0,11
+                        </td>
+                        <td>
+                            1,8-2,1
+                        </td>
+                        <td>
+                            0,7-0,95
+                        </td>
+                        <td>
+                            &lt; 0,03
+                        </td>
+                        <td>
+                            &lt; 0,025
+                        </td>
+                        <td>
+                            &lt; 0,2
+                        </td>
+                        <td>
+                            &lt; 0,25
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
                 <p><b>Механические свойства наплавленного металла</b></p>
-                <table border="1" cellPadding="0" cellSpacing="0">
+                <div className="table-container">
+                    <table className="table" border="1">
                     <tbody>
                     <tr>
                         <td>
@@ -119,7 +122,8 @@ const Provoloka_sploshnogo_secheniya_2 = () => {
                         </td>
                     </tr>
                     </tbody>
-                </table>
+                    </table>
+                </div>
 
                 <p><b>Упаковочные данные<br/></b></p>
                <p>- Прочная картонная коробка<br/>
@@ -127,7 +131,8 @@ const Provoloka_sploshnogo_secheniya_2 = () => {
                 - Катушка с проволокой герметично упакована в плотный полиэтиленовый пакет<br/>
 
                 - Пакет селикогеля внутри для защиты от воздействия атмосферной влаги<br/></p>
-                <table border="1" cellPadding="0" cellSpacing="0">
+                <div className="table-container">
+                    <table className="table" border="1">
                     <tbody>
                     <tr>
                         <td>
@@ -172,7 +177,8 @@ const Provoloka_sploshnogo_secheniya_2 = () => {
                         </td>
                     </tr>
                     </tbody>
-                </table>
+                    </table>
+                </div>
                 <p>
                     <b>Стандарты:<br/></b>
 

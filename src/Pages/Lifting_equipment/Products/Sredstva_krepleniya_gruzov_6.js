@@ -15,7 +15,9 @@ const Sredstva_krepleniya_gruzov_6 = () => {
                     и быстрой фиксации различных грузов на всех видах транспорта:<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>

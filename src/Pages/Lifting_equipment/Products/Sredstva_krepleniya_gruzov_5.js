@@ -14,7 +14,11 @@ const Sredstva_krepleniya_gruzov_5 = () => {
                 <h2>ЛЕНТА ТЕКСТИЛЬНАЯ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" border="1" align="center">
+
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <thead>
                         <tr>
                             <th rowSpan="2" align="center">
@@ -105,7 +109,6 @@ const Sredstva_krepleniya_gruzov_5 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

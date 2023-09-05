@@ -23,7 +23,7 @@ const Rezaki_gazovye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Резаки газовые</h1>
             <div className="catalog">

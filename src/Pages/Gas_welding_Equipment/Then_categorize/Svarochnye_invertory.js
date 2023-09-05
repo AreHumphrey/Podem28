@@ -15,7 +15,7 @@ const Svarochnye_invertory = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Сварочные инверторы</h1>
             <div className="catalog">

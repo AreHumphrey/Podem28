@@ -25,7 +25,7 @@ const Ruchnye_lebedki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Ручные тали</h1>
             <div className="catalog">

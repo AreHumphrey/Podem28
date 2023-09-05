@@ -20,7 +20,7 @@ const Klemmy_svarochnye = () => {
         {id: 1, href: "/klemmy_svarochnye_1", name: "Магнитная клемма заземления МКЗ-50У Сатурн", image: img_1},
         {id: 2, href: "/klemmy_svarochnye_2", name: "Клемма заземления ДОКА КЗ-200", image: img_2},
         {id: 3, href: "/klemmy_svarochnye_3", name: "Клемма заземления ДОКА КЗ-300", image: img_3},
-        {id: 4, href: "/klemmy_svarochnye_4", name: " Клемма заземления ДОКА КЗ-500", image: img_4},
+        {id: 4, href: "/klemmy_svarochnye_4", name: "Клемма заземления ДОКА КЗ-500", image: img_4},
         {id: 5, href: "/klemmy_svarochnye_5", name: "Струбцина заземления КЗ-50 С (КОРД)", image: img_5},
         {id: 6, href: "/klemmy_svarochnye_6", name: "Клемма заземления КЗ-50 \"Сатурн Профи\"", image: img_6},
         {id: 7, href: "/klemmy_svarochnye_7", name: "Клемма заземления КЗ-40 \"Сатурн Профи\"", image: img_7},
@@ -31,7 +31,7 @@ const Klemmy_svarochnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Клеммы сварочные</h1>
             <div className="catalog">

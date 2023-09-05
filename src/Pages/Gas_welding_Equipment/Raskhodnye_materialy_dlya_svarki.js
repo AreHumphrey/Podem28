@@ -17,7 +17,7 @@ const Svarochnye_apparaty_gorelki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">РАСХОДНЫЕ МАТЕРИАЛЫ ДЛЯ СВАРКИ</h1>
             <div className="catalog">

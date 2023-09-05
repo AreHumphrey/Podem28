@@ -21,7 +21,7 @@ const Stropy_gruzovye_tekstilnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Стропы грузовые текстильные</h1>
             <div className="catalog">

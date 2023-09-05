@@ -15,76 +15,79 @@ const Reduktory_ballonnye_4_1 = () => {
                     поступающего из баллона, и автоматического поддержания заданного расхода постоянным.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellPadding="0" cellSpacing="0" width="509" border="1">
-                        <p><b>Технические характеристики:</b></p>
-                        <tbody>
-                        <tr className="odd">
-                            <td valign="top" width="424">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
+                    <p><b>Технические характеристики:</b></p>
+                    <tbody>
+                    <tr className="odd">
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Габариты, мм
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			155х120х155
 		</p>
 		</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td valign="top" width="424">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Вес, кг
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			0,72
 		</p>
 		</span>
-                            </td>
-                        </tr>
-                        <tr className="odd">
-                            <td valign="top" width="424">
+                        </td>
+                    </tr>
+                    <tr className="odd">
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Рабочий газ
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			углекислый газ
 		</p>
 		</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td valign="top" width="424">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" width="424">
  <span className="spaced_span">
 		<p>
 			 Наиб. пропуск. способ-сть, м3/ч
 		</p>
  </span>
-                            </td>
-                            <td className="value_td" valign="top" width="85">
+                        </td>
+                        <td className="value_td" valign="top" width="85">
  <span className="spaced_span">
 		<p>
 			6
 		</p>
 		</span>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
 
             </div>
             <Gap/>

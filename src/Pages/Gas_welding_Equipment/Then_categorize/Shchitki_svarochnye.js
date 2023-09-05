@@ -23,7 +23,7 @@ const Shchitki_svarochnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Щитки сварочные</h1>
             <div className="catalog">

@@ -486,6 +486,16 @@ const SearchBox = () => {
         {id: 332, name: "ПРИСПОСОБЛЕНИЯ И ОСНАСТКА", href: "/prisposobleniya-i-osnastka"},
         {id: 333, name: "КРУГИ", href: "/krugi"},
 
+        {id: 334, name: "Услуги", href: "/services"},
+        {id: 335, name: "Контакты", href: "/contacts"},
+        {id: 336, name: "Полезное", href: "/useful"},
+        {id: 337, name: "Технический паспорт на блок монтажный HQG (L)K1", href: "/tekh-pasport-na-blok-montazhnyy-hqg-l-k1"},
+        {id: 338, name: "Паспорт на лебёдку ручную барабанную канатную JHW 1т; 2т; 3т.", href: "/pasport-na-lebyedku-ruchnuyu-barabannuyu-kanatnuyu-jhw-1t-2t-3t"},
+        {id: 339, name: "Паспорт и инструкция по эксплуатации лебёдок ручных барабанных моделей HWV", href: "/pasport-i-instruktsiya-po-ekspluatatsii-lebyedok-ruchnykh-barabannykh-modeley-hwv"},
+        {id: 340, name: "Паспорт и инструкция по эксплуатации лебёдок ручных моделей HWG", href: "/pasport-i-instruktsiya-po-ekspluatatsii-lebyedok-ruchnykh-modeley-hwg"},
+        {id: 341, name: "Паспорт и руководство по эксплуатации Лебедка рычажная МТМ 0,8т. / 1,6т. / 3,2т. / 5,4т.", href: "/pasport-i-rukovodstvo-po-ekspluatatsii-lebedka-rychazhnaya-mtm-0-8t-1-6t-3-2t-5-4t"},
+        {id: 342, name: "Местоположение", href: "https://2gis.ru/blagoveshensk/geo/7318985049659421"},
+
     ]
 
     return (

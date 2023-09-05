@@ -13,7 +13,7 @@ const Provoloka_poroshkovaya = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Проволока порошковая</h1>
             <div className="catalog">

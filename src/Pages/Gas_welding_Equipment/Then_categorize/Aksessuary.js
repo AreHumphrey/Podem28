@@ -15,7 +15,7 @@ const Aksessuary = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Аксессуары</h1>
             <div className="catalog">

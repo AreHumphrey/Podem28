@@ -25,7 +25,7 @@ const Ustroystva_predokhranitelnye_dlya_gazosvarki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Устройства предохранительные для газосварки</h1>
             <div className="catalog">

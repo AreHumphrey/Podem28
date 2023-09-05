@@ -31,7 +31,8 @@ const Provoloka_sploshnogo_secheniya_1 = () => {
                 </div>
                 <p><b>ХИМИЧЕСКИЙ СОСТАВ</b><br/>
                     Типичный химический состав проволоки(%)</p>
-                <table border="1" cellPadding="0" cellSpacing="0">
+                <div className="table-container">
+                    <table className="table" border="1">
                     <tbody>
                     <tr>
                         <td>
@@ -98,9 +99,11 @@ const Provoloka_sploshnogo_secheniya_1 = () => {
                         </td>
                     </tr>
                     </tbody>
-                </table>
+                    </table>
+                </div>
                 <p><b> Типичные механические свойства свариваемого металла</b><br/></p>
-                <table border="1" cellPadding="0" cellSpacing="0">
+                <div className="table-container">
+                    <table className="table" border="1">
                     <tbody>
                     <tr>
                         <td>
@@ -182,7 +185,8 @@ const Provoloka_sploshnogo_secheniya_1 = () => {
                         </td>
                     </tr>
                     </tbody>
-                </table>
+                    </table>
+                </div>
                 <p><b>ПРЕИМУЩЕСТВА ИСПОЛЬЗОВАНИЯ<br/></b>
 
                     В сравнении с другими видами проволок омедненная обеспечивает более устойчивое горение дуги в режиме

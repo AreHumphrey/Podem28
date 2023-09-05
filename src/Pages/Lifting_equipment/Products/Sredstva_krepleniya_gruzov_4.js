@@ -13,7 +13,11 @@ const Sredstva_krepleniya_gruzov_4 = () => {
                 <h2>ТАЛРЕП С ТРЕЩЕТКОЙ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table border="1" cellPadding="3" cellSpacing="0" width="90%" align="center">
+
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr></tr>
 
@@ -78,7 +82,6 @@ const Sredstva_krepleniya_gruzov_4 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

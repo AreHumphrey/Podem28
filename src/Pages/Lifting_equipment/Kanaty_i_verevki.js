@@ -14,7 +14,7 @@ const Kanaty_i_verevki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Канаты и веревки</h1>
             <div className="catalog">

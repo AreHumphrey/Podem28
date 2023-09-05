@@ -9,12 +9,12 @@ import Basement from "../../../Components/Basement/Basement";
 
 const Provoloka_sploshnogo_secheniya = () => {
     const products = [
-        {id: 1, href: "/provoloka_sploshnogo_secheniya_1", name: " СВАРОЧНАЯ ПРОВОЛОКА ОМЕДНЕННАЯ ER70S-6", image: img_1},
+        {id: 1, href: "/provoloka_sploshnogo_secheniya_1", name: "Проволока сварочная омедненная ER70S-6", image: img_1},
         {id: 2, href: "/provoloka_sploshnogo_secheniya_2", name: "Проволока сварочная омедненная G3Si1", image: img_2},
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Проволока сплошного сечения</h1>
             <div className="catalog">

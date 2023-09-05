@@ -13,7 +13,9 @@ const Ruchnye_tali_2 = () => {
                 <h2>ТАЛЬ РУЧНАЯ ЦЕПНАЯ HSZ-E (КИТАЙ)</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" border="1" align="center">
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td align="center" valign="middle">
@@ -128,7 +130,6 @@ const Ruchnye_tali_2 = () => {
                         </tbody>
                     </table>
                 </div>
-
 
             </div>
             <Gap/>

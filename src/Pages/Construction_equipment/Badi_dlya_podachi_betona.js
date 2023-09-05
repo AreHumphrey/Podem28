@@ -16,7 +16,7 @@ const Badi_dlya_podachi_betona = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Бадьи для подачи бетона</h1>
             <div className="catalog">

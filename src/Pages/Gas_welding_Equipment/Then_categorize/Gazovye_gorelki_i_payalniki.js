@@ -18,7 +18,7 @@ const Gazovye_gorelki_i_payalniki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Газовые горелки и паяльники</h1>
             <div className="catalog">

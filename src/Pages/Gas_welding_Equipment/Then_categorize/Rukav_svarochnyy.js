@@ -14,7 +14,7 @@ const Rukav_svarochnyy = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">РУКАВ СВАРОЧНЫЙ</h1>
             <div className="catalog">

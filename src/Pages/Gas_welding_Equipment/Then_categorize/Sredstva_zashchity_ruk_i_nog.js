@@ -30,7 +30,7 @@ const Sredstva_zashchity_ruk_i_nog = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Средства защиты рук и ног</h1>
             <div className="catalog">

@@ -50,7 +50,7 @@ const Catalog = () => {
             </button>
 
             <nav className={`dropdown_cat1 ${isOpen1 ? "active" : ""}`} ref={menuRef1}>
-                <ul className="cat__list1">
+                <ul className="cat__list">
                     <li className="cat__item1">
                         <a href="/bloki" > Блоки</a>
                     </li>
@@ -115,8 +115,8 @@ const Catalog = () => {
                 <div className="text_cat">Складное оборудование</div>
 
             </button>
-            <nav className={`dropdown_cat2 ${isOpen2 ? "active" : ""}`} ref={menuRef2}>
-                <ul className="cat__list2">
+            <nav className={`dropdown_cat1 ${isOpen2 ? "active" : ""}`} ref={menuRef2}>
+                <ul className="cat__list1">
                     <li className="cat__item1">
                         <a href={"/stelazhi"}> Стеллажи</a>
                     </li>
@@ -167,8 +167,8 @@ const Catalog = () => {
                 <div className="text_cat">Строительное оборудование</div>
 
             </button>
-            <nav className={`dropdown_cat3 ${isOpen3 ? "active" : ""}`} ref={menuRef3}>
-                <ul className="cat__list3">
+            <nav className={`dropdown_cat1 ${isOpen3 ? "active" : ""}`} ref={menuRef3}>
+                <ul className="cat__list1">
                     <li className="cat__item1">
                         <a href={"/lesa-stroitelnye"}> Леса строительные</a>
                     </li>
@@ -216,8 +216,8 @@ const Catalog = () => {
                 <div className="text_cat">Газосварочное оборудование</div>
 
             </button>
-            <nav className={`dropdown_cat4 ${isOpen4 ? "active" : ""}`} ref={menuRef4}>
-                <ul className="cat__list4">
+            <nav className={`dropdown_cat1 ${isOpen4 ? "active" : ""}`} ref={menuRef4}>
+                <ul className="cat__list1">
                     <li className="cat__item1">
                         <a href={"/gazosvarochnoe-oborudovanie_1"}> Газосварочное оборудование</a>
                     </li>

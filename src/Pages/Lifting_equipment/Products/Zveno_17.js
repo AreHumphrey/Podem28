@@ -13,7 +13,9 @@ const Zveno_17 = () => {
                 <h2>ВТУЛКА АЛЮМИНИЕВАЯ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
 
                         <tr>
@@ -1201,7 +1203,6 @@ const Zveno_17 = () => {
                         </tbody>
                     </table>
                 </div>
-
             </div>
             <Gap/>
             <Basement/>

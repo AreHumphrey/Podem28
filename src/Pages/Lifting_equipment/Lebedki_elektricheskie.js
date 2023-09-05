@@ -13,7 +13,7 @@ const Lebedki_elektricheskie = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Лебедки электрические</h1>
             <div className="catalog">

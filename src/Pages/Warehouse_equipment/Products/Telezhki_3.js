@@ -21,120 +21,120 @@ const Telezhki_3 = () => {
                         сэкономить на любом узле приводит к непоправимому ухудшению эксплуатационных качеств.
                         Остерегайтесь подделок!</p>
                 </div>
-                <table border="1" cellSpacing="0" cellPadding="0">
-                    <tbody>
-                    <tr>
-                        <td>
-                            <p>
-                                Артикул&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                ширина мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                длина мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                высота без колёс мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                высота с колёсами мм
-                            </p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                Р - 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                350&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1350
-                            </p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                Р - 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                400&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1350
-                            </p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p>
-                                Р - 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </p>
-                        </td>
-                        <td>
-                            <p>
-                                1350
-                            </p>
-                        </td>
-                    </tr>
-                    </tbody>
-                </table>
-
-
+                <div className="table-container">
+                    <table className="table" border="1">
+                        <tbody>
+                        <tr>
+                            <td>
+                                <p>
+                                    Артикул&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    ширина мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    длина мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    высота без колёс мм&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    высота с колёсами мм
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    Р - 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    350&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1350
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    Р - 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    400&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1350
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    Р - 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    312&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1200&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    1350
+                                </p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
 
             </div>
             <Gap/>

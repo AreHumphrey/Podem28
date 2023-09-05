@@ -15,27 +15,29 @@ const Aksessuary_2_15 = () => {
                     монтажных работах.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table>
-                        <thead>
-                        <tr>
-                            <th>Серия</th>
-                            <th>Габаритные размеры</th>
-                            <th>Вес, г</th>
-                            <th>Цвет по RAL</th>
-                            <th>Возможные углы</th>
-                            <th>Усилие</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>МФ 403</td>
-                            <td>160х120х24</td>
-                            <td>1100</td>
-                            <td>красный 3020</td>
-                            <td> 30, 45, 60, 90</td>
-                            <td>40 кг</td>
-                        </tr>
-                        </tbody>
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
+                    <thead>
+                    <tr>
+                        <th>Серия</th>
+                        <th>Габаритные размеры</th>
+                        <th>Вес, г</th>
+                        <th>Цвет по RAL</th>
+                        <th>Возможные углы</th>
+                        <th>Усилие</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>МФ 403</td>
+                        <td>160х120х24</td>
+                        <td>1100</td>
+                        <td>красный 3020</td>
+                        <td> 30, 45, 60, 90</td>
+                        <td>40 кг</td>
+                    </tr>
+                    </tbody>
                     </table>
                 </div>
                 <p>

@@ -16,7 +16,10 @@ const Reduktory_ballonnye_1_2 = () => {
                     поддержания постоянным заданного рабочего давления газа.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellPadding="0" cellSpacing="0" width="509" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <p><b>Технические характеристики:</b></p>
                         <tbody>
                         <tr className="odd">

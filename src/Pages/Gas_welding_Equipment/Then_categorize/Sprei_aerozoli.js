@@ -15,7 +15,7 @@ const Sprei_aerozoli = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Спреи, аэрозоли</h1>
             <div className="catalog">

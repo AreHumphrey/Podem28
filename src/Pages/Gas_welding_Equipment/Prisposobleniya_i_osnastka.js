@@ -17,7 +17,7 @@ const Prisposobleniya_i_osnastka__1 = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">ПРИСПОСОБЛЕНИЯ И ОСНАСТКА</h1>
             <div className="catalog">

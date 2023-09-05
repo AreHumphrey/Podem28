@@ -17,13 +17,13 @@ const Ballony_generatory_kolpaki = () => {
         {id: 3, href: "/ballony_generatory_kolpaki_3", name: "Ключ сварщика универсальный S8 - 24", image: img_3},
         {id: 4, href: "/ballony_generatory_kolpaki_4", name: "Баллон пропановый 12 л", image: img_4},
         {id: 5, href: "/ballony_generatory_kolpaki_5", name: "Баллон пропановый 5 л", image: img_5},
-        {id: 6, href: "/ballony_generatory_kolpaki_6", name: " Баллон углекислотный 10л", image: img_6},
+        {id: 6, href: "/ballony_generatory_kolpaki_6", name: "Баллон углекислотный 10л", image: img_6},
         {id: 7, href: "/ballony_generatory_kolpaki_7", name: "Баллон газовый 10л", image: img_7},
 
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Баллоны, генераторы, колпаки</h1>
             <div className="catalog">

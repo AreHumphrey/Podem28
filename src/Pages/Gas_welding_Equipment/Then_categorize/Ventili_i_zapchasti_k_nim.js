@@ -15,7 +15,7 @@ const Ventili_i_zapchasti_k_nim = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Вентили и запчасти к ним</h1>
             <div className="catalog">

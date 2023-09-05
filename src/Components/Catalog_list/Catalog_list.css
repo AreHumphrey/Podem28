@@ -1,4 +1,5 @@
 
+
 .catalog {
     display: flex;
     grid-template-columns: repeat(4, 1fr);
@@ -82,4 +83,12 @@
     transform: scale(1.05);
 
 
+}
+@media (max-width: 767px) {
+    .catalog {
+        border-left: 50px solid rgb(159, 159, 159);
+        border-right: 50px solid rgb(159, 159, 159);
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
 }

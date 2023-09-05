@@ -23,7 +23,7 @@ const Gorelki = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Горелки для полуавтоматов</h1>
             <div className="catalog">

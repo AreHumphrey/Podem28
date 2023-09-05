@@ -15,7 +15,7 @@ const Zhidkotoplivnoe_oborudovanie = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Жидкотопливное оборудование</h1>
             <div className="catalog">

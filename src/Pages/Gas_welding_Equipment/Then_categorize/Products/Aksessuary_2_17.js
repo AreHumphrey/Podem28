@@ -15,29 +15,32 @@ const Aksessuary_2_17 = () => {
                     монтажных работах.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table>
-                        <thead>
-                        <tr>
-                            <th>Серия</th>
-                            <th>Габаритные размеры</th>
-                            <th>Вес, г</th>
-                            <th>Цвет по RAL</th>
-                            <th>Возможные углы</th>
-                            <th>Усилие</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>МФ 101</td>
-                            <td>150х100х20</td>
-                            <td>520</td>
-                            <td>желтый 1018</td>
-                            <td>30, 45,60, 90, 90*</td>
-                            <td>30 кг</td>
-                        </tr>
-                        </tbody>
-                    </table>
                 </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
+                    <thead>
+                    <tr>
+                        <th>Серия</th>
+                        <th>Габаритные размеры</th>
+                        <th>Вес, г</th>
+                        <th>Цвет по RAL</th>
+                        <th>Возможные углы</th>
+                        <th>Усилие</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>МФ 101</td>
+                        <td>150х100х20</td>
+                        <td>520</td>
+                        <td>желтый 1018</td>
+                        <td>30, 45,60, 90, 90*</td>
+                        <td>30 кг</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
                 <p>
                     Заменяет струбцины, зажимы, кондукторы, обеспечивает "наличие третьей руки", позволяя тем самым значительно более быстрый, удобный, точный производственный процесс.<br/>
 

@@ -13,7 +13,7 @@ const Reduktory_ballonnye_4 = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Редукторы углекислотные</h1>
             <div className="catalog">

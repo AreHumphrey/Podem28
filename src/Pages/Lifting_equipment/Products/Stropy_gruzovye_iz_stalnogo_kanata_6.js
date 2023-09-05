@@ -16,8 +16,11 @@ const Stropy_gruzovye_iz_stalnogo_kanata_6 = () => {
                     Изготавливаются согласно ГОСТ 25573-82 и предназначены для использования в качестве грузозахватных
                     приспособлений<br/></p>
                 <div className="container_foto">
-                    <img src={img_3}></img>
-                    <table border="1">
+                    <img src={img_3} width="200"></img>
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>
@@ -273,11 +276,11 @@ const Stropy_gruzovye_iz_stalnogo_kanata_6 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
+
                 <h2><b>Изменение грзуподъемности при различных способах строповки
                     (Q номинальная грузоподъемность):</b></h2>
-                <img src={img_1}></img>
+                <img src={img_1} width="250"></img>
                 <p>Стропы и их элементы испытаны на испытательном стенде статистической нагрузкой, превышающую на 25% их номинальну.<br/>
                     - коэффициент запаса прочности канатов стропов по отношению к расчетному разрывному усилию не менее 6.</p>
             </div>

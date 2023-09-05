@@ -25,7 +25,7 @@ const Stekla_dlya_masok_i_ochkov = () => {
         {id: 3, href: "/stekla_dlya_masok_i_ochkov_3", name: "Пластина защитная поликарбонат 110х90х1", image: img_3},
         {id: 4, href: "/stekla_dlya_masok_i_ochkov_4", name: " Пластина защитная поликарбонат 133х114х1", image: img_4},
         {id: 5, href: "/stekla_dlya_masok_i_ochkov_5", name: "Светофильтр 121х69 ТС-3 DIN 9", image: img_5},
-        {id: 6, href: "/stekla_dlya_masok_i_ochkov_6", name: "СВЕТОФИЛЬТР 121Х69 ТС-3 DIN 8", image: img_6},
+        {id: 6, href: "/stekla_dlya_masok_i_ochkov_6", name: "Светофильтр 121Х69 ТС-3 DIN 8", image: img_6},
         {id: 7, href: "/stekla_dlya_masok_i_ochkov_7", name: "Светофильтр 110х90 ТС-3 DIN 9", image: img_7},
         {id: 8, href: "/stekla_dlya_masok_i_ochkov_8", name: "Светофильтр 110х90 ТС-3 DIN 8", image: img_8},
         {id: 9, href: "/stekla_dlya_masok_i_ochkov_9", name: "Светофильтр 102х52 ТС-3 DIN 9", image: img_9},
@@ -37,7 +37,7 @@ const Stekla_dlya_masok_i_ochkov = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Стекла для масок и очков</h1>
             <div className="catalog">

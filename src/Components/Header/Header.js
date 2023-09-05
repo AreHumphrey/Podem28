@@ -7,11 +7,14 @@ import logo from "../Img/logo__podem28.svg";
 
 export default function ButtonAppBar() {
     const [activeLink, setActiveLink] = useState('');
+
     const handleLinkClick = (link) => {
         setActiveLink(link);
     };
     const [isOpen, setOpen] = useState(false);
+
     const menuRef = useRef(null);
+
     useClickOutside(menuRef, () => {
         if (isOpen) setTimeout(() => setOpen(false), 50);
     });
@@ -19,10 +22,10 @@ export default function ButtonAppBar() {
     return (
         <div className="App">
             <div className="chains"/>
-
             <div className="Main_app">
                 <img className="logo_header" src={logo}/>
                 <div className="TextContainer">
+
                     <a
                         href="/"
                         onClick={() => handleLinkClick('Главная')}
@@ -38,6 +41,7 @@ export default function ButtonAppBar() {
                     >
                         Полезное
                     </a>
+
                     <a
                         href="/services"
                         onClick={() => handleLinkClick('Услуги')}
@@ -45,6 +49,7 @@ export default function ButtonAppBar() {
                     >
                         Услуги
                     </a>
+
                     <a
                         href="/contacts"
                         onClick={() => handleLinkClick('Контакты')}
@@ -52,7 +57,9 @@ export default function ButtonAppBar() {
                     >
                         Контакты
                     </a>
+
                 </div>
+
             </div>
             <div className="Search_app">
                 <SearchBox/>

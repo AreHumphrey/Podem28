@@ -14,7 +14,10 @@ const Lebedki_elektricheskie_1 = () => {
                 <p>Тяговые электрические лебедки серии JK предназначены для подъема и перемещении грузов при строительстве, монтажных и других работах. Лебедки могут использоваться в качестве комплектующих различного грузоподъемного оборудования. В рабочем положении закрепляются на горизонтальной площадке.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1" cellPadding="3" align="center">
                         <tbody>
                         <tr>
                             <td>
@@ -101,7 +104,6 @@ const Lebedki_elektricheskie_1 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

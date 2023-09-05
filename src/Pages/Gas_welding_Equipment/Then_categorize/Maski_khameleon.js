@@ -16,7 +16,7 @@ const Maski_khameleon = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Маски "Хамелеон"</h1>
             <div className="catalog">

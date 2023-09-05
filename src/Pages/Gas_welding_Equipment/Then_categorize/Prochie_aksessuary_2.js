@@ -47,7 +47,7 @@ const Prochie_aksessuary_2 = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Прочие аксессуары</h1>
             <div className="catalog">

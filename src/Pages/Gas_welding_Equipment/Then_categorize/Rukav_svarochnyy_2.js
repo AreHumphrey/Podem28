@@ -22,7 +22,7 @@ const Rukav_svarochnyy_2 = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Рукав BРТ</h1>
             <div className="catalog">

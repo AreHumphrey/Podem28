@@ -11,7 +11,7 @@ const Lenta_tekstilnaya = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Ленты текстильные</h1>
             <div className="catalog">

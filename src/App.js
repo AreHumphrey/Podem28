@@ -247,7 +247,7 @@ import Stekla_dlya_masok_i_ochkov_12
     from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Stekla_dlya_masok_i_ochkov_12";
 import Stekla_dlya_masok_i_ochkov_13
     from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Stekla_dlya_masok_i_ochkov_13";
-import Shchitki_svarochnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Sprei_aerozoli_1";
+import Shchitki_svarochnye_1 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Shchitki_svarochnye_1";
 import Shchitki_svarochnye_2 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Shchitki_svarochnye_2";
 import Shchitki_svarochnye_3 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Shchitki_svarochnye_3";
 import Shchitki_svarochnye_4 from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Shchitki_svarochnye_4";
@@ -464,6 +464,26 @@ import Ustroystva_predokhranitelnye_dlya_gazosvarki_7
     from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_7";
 import Ustroystva_predokhranitelnye_dlya_gazosvarki_8
     from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Ustroystva_predokhranitelnye_dlya_gazosvarki_8";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_12
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_12";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_13
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_13";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_14
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_14";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_15
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_15";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_16
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_16";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_17
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_17";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_18
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_18";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_19
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_19";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_20
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_20";
+import Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_21
+    from "./Pages/Gas_welding_Equipment/Then_categorize/Products/Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_21";
 
 function App() {
 
@@ -817,6 +837,16 @@ function App() {
                 <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_9}></Route>
                 <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_10}></Route>
                 <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_11}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_12" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_12}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_13" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_13}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_14" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_14}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_15" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_15}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_16" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_16}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_17" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_17}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_18" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_18}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_19" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_19}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_20" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_20}></Route>
+                <Route path="/komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_21" Component={Komplektuyushchie_k_reduktoram_i_regulyatoram_manometry_21}></Route>
 
                 <Route path="/gazosvarochnoe_oborudovanie_1.1" Component={Reduktory_ballonnye}></Route>
                 <Route path="/reduktory_ballonnye_1" Component={Reduktory_ballonnye_1}></Route>

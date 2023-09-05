@@ -15,7 +15,7 @@ const Pripoi_flyusy = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Припои, флюсы</h1>
             <div className="catalog">

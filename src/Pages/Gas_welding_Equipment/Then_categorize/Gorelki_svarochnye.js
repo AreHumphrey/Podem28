@@ -16,7 +16,7 @@ const Gorelki_svarochnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Горелки сварочные</h1>
             <div className="catalog">

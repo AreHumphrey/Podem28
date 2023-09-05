@@ -3,7 +3,7 @@ import ButtonAppBar from "../../../Components/Header/Header"
 import '../../Pages.css'
 import Basement from "../../../Components/Basement/Basement";
 import Gap from "../../../Components/Gap/Gap";
-import img_3 from "../../../Components/Img/img_1_stropy-gruzovye-tsepnye.png"
+import img_3 from "../../../Components/Img/img_1_stropy-gruzovye-tekstilnye.png"
 
 const Stropy_gruzovye_tekstilnye_1 = () => {
     return (

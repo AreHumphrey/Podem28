@@ -40,7 +40,10 @@ const Vyshka_tura_1 = () => {
                     информация является ознакомительной.<br/></p>
                 <div className="container_foto">
                     <img src={img_3_1}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td colSpan="5">
@@ -224,7 +227,10 @@ const Vyshka_tura_1 = () => {
 
                 <div className="container_foto">
                     <img src={img_3_2}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td colSpan="5">
@@ -647,7 +653,6 @@ const Vyshka_tura_1 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

@@ -15,21 +15,22 @@ const Bloki_2 = () => {
                     тягового усилия грузоподъемных механизмов. <br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
-                        <tbody>
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tr>
                             <td>
-                                <p align="center">
+                                <p>
                                     <strong>Модель</strong>
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     <b>Грузоподъемность, кг</b>
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     <b>Рекомендуемый диаметр каната, мм</b>
                                 </p>
                             </td>
@@ -40,12 +41,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с крюком LH3"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     2
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 7 до 9
                                 </p>
                             </td>
@@ -55,12 +56,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с крюком LH6"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     4
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 16 до 18
                                 </p>
                             </td>
@@ -72,12 +73,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с крюком LH8"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     8
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 20 до 22
                                 </p>
                             </td>
@@ -87,12 +88,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с крюком LH10"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     10
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 24 до 26
                                 </p>
                             </td>
@@ -104,12 +105,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с проушиной LS3"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     2
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 7 до 9
                                 </p>
                             </td>
@@ -119,12 +120,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с проушиной LS6"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     4
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 16 до 18
                                 </p>
                             </td>
@@ -136,12 +137,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с проушиной LS8"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     8
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 20 до 22
                                 </p>
                             </td>
@@ -151,12 +152,12 @@ const Bloki_2 = () => {
                                 Блок шкивовый с проушиной LS10"*1
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     10
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     от 24 до 26
                                 </p>
                             </td>
@@ -167,12 +168,12 @@ const Bloki_2 = () => {
                                 Блок тралловый IB-75
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     0.5
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     8
                                 </p>
                             </td>
@@ -182,12 +183,12 @@ const Bloki_2 = () => {
                                 Блок тралловый IB-100
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     1
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     10
                                 </p>
                             </td>
@@ -199,12 +200,12 @@ const Bloki_2 = () => {
                                 Блок однорольный с крюком 1В-100Н
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     0.5
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     8
                                 </p>
                             </td>
@@ -214,17 +215,16 @@ const Bloki_2 = () => {
                                 Блок однорольный крюком 1В-125Н
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     1
                                 </p>
                             </td>
                             <td>
-                                <p align="center">
+                                <p>
                                     10
                                 </p>
                             </td>
                         </tr>
-                        </tbody>
                     </table>
                 </div>
 

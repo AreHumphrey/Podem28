@@ -16,7 +16,9 @@ const Mini_tali_elektricheskie_3 = () => {
                     талью и тележкой происходит с одного пульта.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>

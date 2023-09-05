@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-@media (max-width: 767px) {
-
-}
 
 .App {
     display: flex;
@@ -19,6 +16,7 @@
     z-index: 2;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
+
 .chains {
     border-bottom: 1px solid rgba(1, 1, 1, 0.30);
     height: 155px;
@@ -29,6 +27,7 @@
     color: white;
     background-image: url("../Img/chains.jpg");
 }
+
 .Main_app {
     background: #BB0B32;
     height: 59px;
@@ -39,13 +38,16 @@
     align-items: center;
     color: white;
 }
+
 .TextContainer {
+    max-width: 768px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .TextContainer a {
+    max-width: 768px;
     color: white;
     margin: 10px 40px;
     text-decoration: none;
@@ -76,14 +78,14 @@
 }
 
 
-
 .Search_app {
     background: white;
     height: 59px;
     width: 100%;
 
 }
-.menu-button{
+
+.menu-button {
     color: white;
     margin: 10px 40px;
     text-decoration: none;
@@ -93,7 +95,8 @@
     background-color: #BB0B32;
     border: none;
 }
-.menu-button.active{
+
+.menu-button.active {
     font-family: Raleway !important;
     background-color: white !important;
     color: #BB0B32 !important;
@@ -183,14 +186,18 @@
 
 }
 
-.logo_header{
+.logo_header {
     width: 209px;
     height: 211px;
     position: absolute;
     transform: translateX(-570px) translateY(-18px);
 }
 
+@media (max-width: 767px) {
 
+    .TextContainer a {
+        margin: 1px 20px;
 
+    }
 
-
+}

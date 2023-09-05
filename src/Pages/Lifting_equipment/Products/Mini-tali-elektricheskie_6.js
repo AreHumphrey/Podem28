@@ -15,7 +15,10 @@ const Mini_tali_elektricheskie_6 = () => {
                     неподвижно над местом подъема. Для закрепления оснащена крепежными скобами.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>

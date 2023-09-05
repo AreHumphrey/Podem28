@@ -34,7 +34,7 @@ const Gazosvarochnoe_oborudovanie_1 = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">ГАЗОСВАРОЧНОЕ ОБОРУДОВАНИЕ</h1>
             <div className="catalog">

@@ -12,7 +12,7 @@ const Posty_gazosvarochnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Посты газосварочные</h1>
             <div className="catalog">

@@ -12,7 +12,7 @@ const Lesa_stroitelnye = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Леса строительные</h1>
             <div className="catalog">

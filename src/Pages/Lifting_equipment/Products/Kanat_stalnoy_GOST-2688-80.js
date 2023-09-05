@@ -13,7 +13,10 @@ const Kanaty_i_verevki_2 = () => {
                 <h2>КАНАТ СТАЛЬНОЙ ГОСТ 2688-80</h2>
                 <div className="container_foto_1">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" border="1">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td><strong>Диаметр, мм </strong></td>
@@ -121,7 +124,6 @@ const Kanaty_i_verevki_2 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

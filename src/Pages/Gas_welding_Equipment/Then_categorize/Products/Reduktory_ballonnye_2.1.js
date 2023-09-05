@@ -14,7 +14,10 @@ const Reduktory_ballonnye_2_1 = () => {
                 <p>Регулятор давления (редуктор) баллонный пропановый одноступенчатый БПО-5-4 предназначен для понижения и регулирования давления газа - пропана, поступающего из баллона, и автоматического поддержания постоянным заданного рабочего давления газа.</p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellPadding="0" cellSpacing="0" width="509" border="1">
+
+                </div>
+                <div className="table-container">
+                    <table className="table" border="1">
                         <p><b>Технические характеристики:</b></p>
                         <tbody>
                         <tr className="odd">
@@ -132,7 +135,6 @@ const Reduktory_ballonnye_2_1 = () => {
                         </tbody>
                     </table>
                 </div>
-
                 <p>
                     Особенности конструкции<br/>
                     Отдельный редуцирующий узел с фильтрующим элементом<br/>

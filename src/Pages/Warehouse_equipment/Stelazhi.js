@@ -18,7 +18,7 @@ const Stelazhi = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Стеллажи</h1>
             <div className="catalog">

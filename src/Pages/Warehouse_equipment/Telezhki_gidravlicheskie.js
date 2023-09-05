@@ -20,7 +20,7 @@ const Telezhki_gidravlicheskie = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Тележки</h1>
             <div className="catalog">

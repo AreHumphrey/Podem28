@@ -31,7 +31,7 @@ const Svarochnye_elektrododerzhateli = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1"> Сварочные электрододержатели</h1>
             <div className="catalog">

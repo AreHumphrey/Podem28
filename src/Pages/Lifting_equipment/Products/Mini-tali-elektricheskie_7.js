@@ -16,7 +16,10 @@ const Mini_tali_elektricheskie_7 = () => {
                     Так же может использоваться как стационарная модель, без соединения с тележкой.<br/></p>
                 <div className="container_foto">
                     <img src={img_3}></img>
-                    <table cellSpacing="0" cellPadding="3" width="" align="center" border="1">
+                </div>
+
+                <div className="table-container">
+                    <table className="table" border="1">
                         <tbody>
                         <tr>
                             <td>
@@ -280,7 +283,6 @@ const Mini_tali_elektricheskie_7 = () => {
                         </tr>
                         </tbody>
                     </table>
-
                 </div>
 
             </div>

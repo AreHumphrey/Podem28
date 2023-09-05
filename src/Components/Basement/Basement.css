@@ -1,12 +1,13 @@
 .basement {
-    position:relative;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     padding: 20px;
     width: 100%;
+    bottom: 0;
     background: rgba(20, 41, 122, 0.96);
-    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25) inset;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.25) inset;
 }
 
 .column {
@@ -15,11 +16,9 @@
     justify-content: space-between;
     white-space: nowrap;
 
-
 }
 
 .column div {
-
     font-weight: bold;
     margin-bottom: 10px;
     white-space: nowrap;
@@ -38,7 +37,6 @@
     justify-content: flex-start;
     white-space: nowrap;
 
-
 }
 
 .text {
@@ -49,7 +47,6 @@
     line-height: 2;
     margin-left: 140px;
     display: flex;
-
 
 }
 
@@ -92,9 +89,50 @@
     float: none;
     width: 100px;
 }
-.logo{
+
+.logo {
     width: 252px;
     height: 233px;
     opacity: 0.5;
     transform: translateX(-190px) translateY(30px);
+}
+
+@media (max-width: 767px) {
+
+    .logo {
+        display: none;
+    }
+
+    .column {
+        margin-bottom: 0;
+        margin-right: -60px;
+
+    }
+    .column:nth-child(2)  {
+        margin-left: -150px;
+    }
+
+    .text {
+        font-size: 14px;
+
+    }
+
+    .text_all {
+        font-size: 11px;
+    }
+
+    .text_alls {
+        font-size: 11px;
+    }
+
+    .image-container {
+        height: 1px;
+        width: 1px;
+    }
+
+    svg {
+        width: 20px;
+        height: 20px;
+    }
+
 }

@@ -31,7 +31,7 @@ const Komplektuyushchie_dlya_strop = () => {
         {id: 4, href: "/Talrep-takelazhnyy-vilka-vilka", name: "Талреп такелажный вилка-вилка", image: img_4},
         {id: 5, href: "/Skoby-takelazhnye", name: "Скобы такелажные", image: img_5},
         {id: 6, href: "/Kryuk-chekernyy", name: "Крюк чекерный", image: img_6},
-        {id: 7, href: "/Kryuk-samozapirayushchiysya", name: "Крюк самозапи рающийся", image: img_7},
+        {id: 7, href: "/Kryuk-samozapirayushchiysya", name: "Крюк самозапирающийся", image: img_7},
         {id: 8, href: "/Kryuk-chalochnyy-tip-322A-s-vertlyugom", name: " Крюк чалочный тип 322А с вертлюгом", image: img_8},
         {id: 9, href: "/Kryuk-chalochnyy-tip-320A", name: " Крюк чалочный тип 320А", image: img_9},
         {id: 10, href: "/Zveno-ovalnoe", name: "Звено овальное", image: img_10},
@@ -46,7 +46,7 @@ const Komplektuyushchie_dlya_strop = () => {
     ];
 
     return (
-        <div>
+        <div className="all_frame">
             <ButtonAppBar/>
             <h1 className="h1">Комплектующие для строп</h1>
             <div className="catalog">
