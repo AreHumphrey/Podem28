@@ -6,6 +6,7 @@
     width: auto;
     position: relative;
     grid-template-columns: repeat(3, 1fr);
+    border-bottom: 2px solid #afafaf;
 }
 
 .Inf::after {

@@ -26,12 +26,18 @@ const UseFulPage2 = () => {
 
                 <h2>2. ХАРАКТЕРИСТИКИ </h2>
                 <div className="table-container">
-                    <table className="table">
+                    <table className="table" border="1">
                         <tr>
                             <th>Г/п, т (тип лебедки)</th>
-                            <td>1,0(JHW)</td>
-                            <td>2,0(JHW)</td>
-                            <td>3,0(JHW)</td>
+                            <td>
+                                1,0(JHW)
+                            </td>
+                            <td>
+                                2,0(JHW)
+                            </td>
+                            <td>
+                                3,0(JHW)
+                            </td>
                         </tr>
                         <tr>
                             <th>Макс. длина каната, м.</th>
@@ -134,7 +140,7 @@ const UseFulPage2 = () => {
                 </p>
                 <h2>СВЕДЕНИЯ О РЕМОНТЕ ЛЕБЕДКИ</h2>
                 <table border="1">
-                    <tbody >
+                    <tbody>
                     <tr>
                         <td>
                             <p align="center">

@@ -51,49 +51,49 @@ const Catalog = () => {
 
             <nav className={`dropdown_cat1 ${isOpen1 ? "active" : ""}`} ref={menuRef1}>
                 <ul className="cat__list">
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/bloki'; }}>
                         <a href="/bloki" > Блоки</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/domkraty'; }}>
                         <a href="/domkraty"> Домкраты</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/zakhvaty'; }}>
                         <a href="/zakhvaty"> Захваты</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/kanaty-i-verevki'; }}>
                         <a href="/kanaty-i-verevki"> Канаты и веревки</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/komplektuyushchie-dlya-strop'; }}>
                         <a href="/komplektuyushchie-dlya-strop"> Комплектующие для строп</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/lebedki-elektricheskie'; }}>
                         <a href="/lebedki-elektricheskie"> Лебедки электрические</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/lenta-tekstilnaya'; }}>
                         <a href="/lenta-tekstilnaya">Лента текстильная</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/mini-tali-elektricheskie'; }}>
                         <a href="/mini-tali-elektricheskie"> Мини тали электрические</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/ruchnye-lebedki'; }}>
                         <a href="/ruchnye-lebedki"> Ручные лебедки</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/ruchnye-tali'; }}>
                         <a href="/ruchnye-tali"> Ручные тали</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/sredstva-krepleniya-gruzov'; }}>
                         <a href="/sredstva-krepleniya-gruzov"> Средства крепления грузов</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/stropy-gruzovye-iz-stalnogo-kanata'; }}>
                         <a href="/stropy-gruzovye-iz-stalnogo-kanata"> Стропы грузовые из стального каната</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/stropy-gruzovye-tekstilnye'; }}>
                         <a href="/stropy-gruzovye-tekstilnye"> Стропы грузовые текстильные</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/stropy-gruzovye-tsepnye'; }}>
                         <a href="/stropy-gruzovye-tsepnye"> Стропы грузовые цепные</a>
                     </li>
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/elektricheskie-tali'; }}>
                         <a href="/elektricheskie-tali"> Электрические тали</a>
                     </li>
 
@@ -117,15 +117,15 @@ const Catalog = () => {
             </button>
             <nav className={`dropdown_cat1 ${isOpen2 ? "active" : ""}`} ref={menuRef2}>
                 <ul className="cat__list1">
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/stelazhi'; }}>
                         <a href={"/stelazhi"}> Стеллажи</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/telezhki-gidravlicheskie'; }}>
                         <a href={"/telezhki-gidravlicheskie"}> Тележки</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/kolesa'; }}>
                         <a href={"/kolesa"}> Колеса</a>
                     </li>
 
@@ -169,19 +169,19 @@ const Catalog = () => {
             </button>
             <nav className={`dropdown_cat1 ${isOpen3 ? "active" : ""}`} ref={menuRef3}>
                 <ul className="cat__list1">
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/lesa-stroitelnye'; }}>
                         <a href={"/lesa-stroitelnye"}> Леса строительные</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/badi-dlya-podachi-betona'; }}>
                         <a href={"/badi-dlya-podachi-betona"}> Бадьи для подачи бетона</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/betonosmesitelie'; }}>
                         <a href={"/betonosmesitelie"}> Бетоносмесители</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/vyshka-tura'; }}>
                         <a href={"/vyshka-tura"}> Вышка тура</a>
                     </li>
                 </ul>
@@ -218,31 +218,33 @@ const Catalog = () => {
             </button>
             <nav className={`dropdown_cat1 ${isOpen4 ? "active" : ""}`} ref={menuRef4}>
                 <ul className="cat__list1">
-                    <li className="cat__item1">
-                        <a href={"/gazosvarochnoe-oborudovanie_1"}> Газосварочное оборудование</a>
+                    <li className="cat__item1" onClick={() => { window.location.href = '/gazosvarochnoe-oborudovanie_1'; }}>
+                        <a href="/gazosvarochnoe-oborudovanie_1">
+                            Газосварочное оборудование
+                        </a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/svarochnye-apparaty-gorelki'; }}>
                         <a href={"/svarochnye-apparaty-gorelki"}> Сварочные аппараты, горелки</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/raskhodnye-materialy-dlya-svarki'; }}>
                         <a href={"/raskhodnye-materialy-dlya-svarki"}> Расходные материалы для сварки</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/silovoy-kabel-i-aksessuary'; }}>
                         <a href={"/silovoy-kabel-i-aksessuary"}> Силовой кабель и аксессуары</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/zashchita-svarshchika'; }}>
                         <a href={"/zashchita-svarshchika"}> Защита сварщика</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/prisposobleniya-i-osnastka'; }}>
                         <a href={"/prisposobleniya-i-osnastka"}> Приспособления и оснастка</a>
                     </li>
 
-                    <li className="cat__item1">
+                    <li className="cat__item1" onClick={() => { window.location.href = '/krugi'; }}>
                         <a href={"/krugi"}> Круги</a>
                     </li>
                 </ul>
