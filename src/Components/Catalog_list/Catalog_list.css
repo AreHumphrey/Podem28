@@ -58,6 +58,16 @@
     max-height: 60%;
 }
 
+.h1_all {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: #4f4f4f;
+    justify-content: center;
+    text-align: center;
+    font-size: 46px;
+    font-family: Raleway;
+    align-content: center;
+}
 
 .product-name {
     margin-top: auto;
@@ -90,5 +100,9 @@
         border-right: 50px solid rgb(159, 159, 159);
         padding-top: 60px;
         padding-bottom: 60px;
+    }
+
+    .h1_all{
+        font-size: 24px;
     }
 }
