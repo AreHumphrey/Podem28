@@ -6,6 +6,7 @@
     justify-content: center;
     position: relative;
     overflow: hidden;
+    padding-top: 42px;
 }
 
 .arrow {
@@ -13,6 +14,7 @@
     color: #888;
     font-size: 24px;
     cursor: pointer;
+    padding-top: 42px;
 }
 
 .arrow-left {
@@ -52,6 +54,7 @@
     }
     .slider {
         border-bottom: 2px solid #afafaf;
+        padding-top: -2px;
 
     }
 

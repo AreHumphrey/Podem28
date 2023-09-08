@@ -2,7 +2,7 @@
 .search-box {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     position: relative;
 }
 
@@ -54,6 +54,7 @@
 }
 
 .popup-window {
+    align-items: start;
     font-family: Raleway;
     border: 0.5px solid rgba(0, 0, 0, 0.40);
     position: relative;
@@ -71,12 +72,14 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    align-items: start;
 }
 
 .popup-list li {
     padding: 10px;
     cursor: pointer;
     border-bottom: 1px solid #747474;
+    text-align: left;
 }
 
 .popup-list li:last-child {
@@ -90,6 +93,7 @@
 .popup-list li a {
     text-decoration: none;
     display: inline-block;
+    align-items: start;
     width: 100%;
     height: 100%;
     padding: 10px;
