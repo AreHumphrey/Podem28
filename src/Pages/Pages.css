@@ -124,7 +124,7 @@ table {
     }
     .h3 {
         word-wrap: break-word;
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .h1{
@@ -145,6 +145,7 @@ table {
     }
     .p {
         word-wrap: break-word;
+        font-size: 14px;
     }
     .b {
         word-wrap: break-word;

@@ -190,7 +190,7 @@
     width: 209px;
     height: 211px;
     position: absolute;
-    transform: translateX(-570px) translateY(-18px);
+    transform: translateX(-570px) translateY(-24px);
 }
 
 @media (max-width: 767px) {
@@ -199,5 +199,15 @@
         margin: 1px 20px;
 
     }
+
+    .logo_header {
+        width: 139px;
+        height: 141px;
+        position: absolute;
+        transform: translateX(-110px) translateY(-100px);
+
+    }
+
+
 
 }

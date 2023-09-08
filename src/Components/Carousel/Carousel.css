@@ -50,5 +50,9 @@
         width: 32400%;
         height: 100px;
     }
+    .slider {
+        border-bottom: 2px solid #afafaf;
+
+    }
 
 }
