@@ -86,7 +86,6 @@
     font-size: 16px;
 }
 
-
 .dropdown_cat1.active {
     box-shadow: 0 15px 15px 0 rgba(0, 0, 0, 0.25);
     transform: translateY(0);
@@ -130,7 +129,9 @@
     width: 100%;
 
 }
+
 @media (max-width: 767px) {
+
     .Catalog_app {
         background: white;
         height: 72px;
@@ -138,14 +139,17 @@
         display: grid;
         justify-content: space-evenly;
     }
+
     .icon_cat {
         display: none;
     }
+
     .text_cat {
 
         font-size: 11px;
 
     }
+
     .dropdown_cat1 {
         display: grid;
         align-items: center;

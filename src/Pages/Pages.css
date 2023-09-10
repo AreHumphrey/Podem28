@@ -1,4 +1,3 @@
-
 .pages_text {
     padding-top: 30px;
     display: grid;
@@ -26,11 +25,45 @@
     overflow-x: hidden;
 }
 
+.services_all{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    border-left: 187px solid rgb(159, 159, 159);
+    border-right: 187px solid rgb(159, 159, 159);
+    border-bottom: 2px solid #afafaf;
+}
+
+.services_h2 {
+    font-size: 40px;
+    font-family: Raleway;
+    color: #2c2c2c;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.App-logo {
+    height: 50vmin;
+    pointer-events: none;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+
+    }
+}
+
 .pages_text h2 {
     font-size: 20px;
     margin-bottom: 10px;
     color: #4f4f4f;
 }
+
 .pages_text a {
     line-height: 1.0;
     color: #14297A;
@@ -39,16 +72,20 @@
 .pages_text li {
     padding-left: 40px;
 }
+
 .pages_text ol {
     padding-left: 40px;
 }
+
 .pages_text ul {
     padding-left: 40px;
 }
+
 .map {
     width: 500px;
     height: 580px;
 }
+
 .h1{
     margin-top: 2%;
     color: #4f4f4f;
@@ -73,6 +110,7 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
+
 .container_foto_1 {
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -86,6 +124,7 @@
 td {
     padding: 0.001px;
 }
+
 table {
     text-align: center;
     border-collapse: collapse;
@@ -107,12 +146,32 @@ table {
         word-wrap: break-word;
 
     }
+
+    .services_all{
+        border-left: 50px solid rgb(159, 159, 159);
+        border-right: 50px solid rgb(159, 159, 159);
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    .App-logo {
+        height: 30vmin;
+        pointer-events: none;
+
+    }
+
+    .services_h2{
+        font-size: 20px;
+    }
+
     .pages_text li {
         padding-left: 20px;
     }
+
     .pages_text ol {
         padding-left: 20px;
     }
+
     .pages_text ul {
         padding-left: 20px;
     }
@@ -139,14 +198,17 @@ table {
         justify-content: center;
         display: flex;
     }
+
     .product:hover img {
         max-width: 80%;
         max-height: 50%;
     }
+
     .p {
         word-wrap: break-word;
         font-size: 14px;
     }
+
     .b {
         word-wrap: break-word;
     }

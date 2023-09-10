@@ -1,5 +1,3 @@
-
-
 .catalog {
     display: flex;
     grid-template-columns: repeat(4, 1fr);
@@ -14,7 +12,6 @@
     padding-bottom: 60px;
     border-top: 2px solid #afafaf;
     border-bottom: 2px solid #afafaf;
-
 
 }
 
@@ -99,7 +96,6 @@
         border-left: 50px solid rgb(159, 159, 159);
         border-right: 50px solid rgb(159, 159, 159);
         padding-top: 60px;
-
         border-top: 2px solid #afafaf;
         border-bottom: 2px solid #afafaf;
     }
