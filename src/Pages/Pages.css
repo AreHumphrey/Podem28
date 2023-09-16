@@ -4,8 +4,6 @@
     text-align: left;
     text-align: left;
     justify-content: left;
-    border-left: 187px solid rgb(159, 159, 159);
-    border-right: 187px solid rgb(159, 159, 159);
     font-size: 16px;
     padding-left: 20px;
     position: relative;
@@ -18,6 +16,7 @@
     color: #717171;
     font-family: Raleway;
 }
+
 .all_frame {
     position: relative;
     z-index: 2;
@@ -137,6 +136,7 @@ table {
         margin-bottom: 10px;
         color: #4f4f4f;
     }
+
     .pages_text  {
         border-left: 50px solid rgb(159, 159, 159);
         border-right: 50px solid rgb(159, 159, 159);
@@ -148,8 +148,6 @@ table {
     }
 
     .services_all{
-        border-left: 50px solid rgb(159, 159, 159);
-        border-right: 50px solid rgb(159, 159, 159);
         padding-top: 20px;
         padding-bottom: 60px;
     }

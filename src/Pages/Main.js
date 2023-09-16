@@ -1,6 +1,6 @@
 import React from 'react';
 import ButtonAppBar from "../Components/Header/Header";
-import Info from "../Components/Info/Info";
+import Infos from "../Components/Info/Infos";
 import Basement from "../Components/Basement/Basement";
 import '../App.css';
 import Catalog_list from "../Components/Catalog_list/Catalog_list";
@@ -12,9 +12,7 @@ function Main() {
         <div className="root">
             <ButtonAppBar/>
             <Slider/>
-
-
-            <Info/>
+            <Infos/>
             <Catalog_list/>
             <Gap/>
             <Basement/>

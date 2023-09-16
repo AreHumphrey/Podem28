@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 .App {
@@ -15,6 +16,7 @@
     background: #FFFFFF;
     z-index: 2;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+
 }
 
 .chains {
@@ -26,10 +28,11 @@
     align-items: center;
     color: white;
     background-image: url("../Img/chains.jpg");
+
 }
 
 .Main_app {
-    background: #BB0B32;
+    background: rgba(14, 95, 153, 1);
     height: 59px;
     width: 100%;
     flex: 1;
@@ -37,6 +40,7 @@
     justify-content: center;
     align-items: center;
     color: white;
+
 }
 
 .TextContainer {
@@ -44,6 +48,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+
 }
 
 .TextContainer a {
@@ -60,23 +65,24 @@
 .TextContainer a.active {
     font-family: Raleway !important;
     background-color: white !important;
-    color: #BB0B32 !important;
+    color: rgba(14, 95, 153, 1) !important;
     height: 59px !important;
     line-height: 59px !important;
     width: auto !important;
     align-items: center !important;
+
 }
 
 .TextContainer a:hover {
     font-family: Raleway !important;
     background-color: white !important;
-    color: #BB0B32 !important;
+    color: rgba(14, 95, 153, 1) !important;
     height: 59px !important;
     line-height: 59px !important;
     width: auto !important;
     align-items: center !important;
-}
 
+}
 
 .Search_app {
     background: white;
@@ -92,18 +98,20 @@
     font-family: Raleway;
     font-size: 16px;
     width: 150px;
-    background-color: #BB0B32;
+    background-color: rgba(14, 95, 153, 1);
     border: none;
+
 }
 
 .menu-button.active {
     font-family: Raleway !important;
     background-color: white !important;
-    color: #BB0B32 !important;
+    color: rgba(14, 95, 153, 1) !important;
     height: 59px !important;
     line-height: 59px !important;
     align-items: center !important;
     width: 150px;
+
 }
 
 .menu {
@@ -118,6 +126,7 @@
     padding: 10px;
     left: 510px;
     z-index: 3;
+
 }
 
 .menu {
@@ -133,14 +142,15 @@
     transform: translateY(-10px);
     visibility: hidden;
     transition: 0.3s;
+
 }
 
 .menu.active {
     transform: translateY(0);
     opacity: 1;
     visibility: visible;
-}
 
+}
 
 .menu::before,
 .menu::after {
@@ -151,6 +161,7 @@
     height: 20px;
     right: 15px;
     border: 10px solid transparent;
+
 }
 
 .menu::before {
@@ -160,6 +171,7 @@
 
 .menu::after {
     top: -19px;
+
 }
 
 .menu__list {
@@ -167,6 +179,7 @@
     width: 100%;
     padding: 0;
     list-style-type: none;
+
 }
 
 .menu__item {
@@ -191,6 +204,7 @@
     height: 211px;
     position: absolute;
     transform: translateX(-570px) translateY(-24px);
+
 }
 
 @media (max-width: 767px) {
@@ -206,7 +220,5 @@
         transform: translateX(-110px) translateY(-100px);
 
     }
-
-
 
 }
