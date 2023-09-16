@@ -11,7 +11,7 @@ const Services = () => {
             <ButtonAppBar/>
 
             <div className="services_all">
-                <img src={icon} className="App-logo" style={{ fill: 'red' }} />
+                <img src={icon} className="App-logo"/>
                 <h2 className="services_h2">Раздел в разработке</h2>
 
             </div>

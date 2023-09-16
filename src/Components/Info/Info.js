@@ -4,8 +4,6 @@ import "./Info.css";
 export default function Info() {
     return (
         <div className="Inf">
-
-
             <a>
 
                 <svg className="img_info" viewBox="0 0 134 164" fill="none" xmlns="http://www.w3.org/2000/svg">

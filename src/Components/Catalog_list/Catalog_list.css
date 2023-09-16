@@ -6,13 +6,10 @@
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    border-left: 187px solid rgb(159, 159, 159);
-    border-right: 187px solid rgb(159, 159, 159);
     padding-top: 60px;
     padding-bottom: 60px;
     border-top: 2px solid #afafaf;
     border-bottom: 2px solid #afafaf;
-
 
 }
 
@@ -94,12 +91,13 @@
 }
 @media (max-width: 767px) {
     .catalog {
-        border-left: 50px solid rgb(159, 159, 159);
-        border-right: 50px solid rgb(159, 159, 159);
         padding-top: 60px;
-
         border-top: 2px solid #afafaf;
         border-bottom: 2px solid #afafaf;
+    }
+
+    .h1_all{
+        font-size: 24px;
     }
 
     .h1_all{

@@ -3,3 +3,8 @@
     position: relative;
     height: 150px;
 }
+@media (max-width: 767px) {
+    .gap {
+        height: 80px;
+    }
+}
