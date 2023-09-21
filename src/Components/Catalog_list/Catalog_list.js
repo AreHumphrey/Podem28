@@ -41,7 +41,6 @@ const Catalog_list = () => {
     return (
         <div>
             <div className="all_frame">
-                <h1 className="h1_all">ХИТ ПРОДАЖ</h1>
                 <div className="catalog">
                     {products.map((product) => (
                         <div className="product" key={product.id}>

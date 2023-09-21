@@ -33,7 +33,7 @@ export default function Basement() {
                                 stroke="#EAE9E9" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
 
-                        8 (4162) 501-933
+                        8(914)-550-19-33
 
                     </a>
                 </div>
