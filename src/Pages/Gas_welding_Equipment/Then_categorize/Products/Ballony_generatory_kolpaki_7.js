@@ -10,7 +10,7 @@ const Ballony_generatory_kolpaki_7 = () => {
         <div className="all_frame">
             <ButtonAppBar/>
             <div className="pages_text">
-                <h2>БАЛЛОН УГЛЕКИСЛОТНЫЙ 10Л</h2>
+                <h2>БАЛЛОН КИСЛОРОДНЫЙ 10Л</h2>
 
                 <div className="container_foto">
                     <img src={img_3}></img>

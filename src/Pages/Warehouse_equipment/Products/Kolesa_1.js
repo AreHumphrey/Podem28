@@ -23,7 +23,7 @@ const Kolesa_1 = () => {
         <div className="all_frame">
             <ButtonAppBar/>
             <div className="pages_text">
-                <h2>ТЕЛЕЖКИ С СЕТЧАТЫМИ БОРТАМИ</h2>
+                <h2>МЕБЕЛЬНЫЕ КОЛЕСА</h2>
                 <img src={img_3_1} width="250"></img>
                 <div className="container_foto">
                     <p>Колеса для кресел, диванов, столиков на колесах, шкафов, тумбочек. Экономичный вариант.
@@ -31,7 +31,7 @@ const Kolesa_1 = () => {
                 </div>
                 <img src={img_3_2}></img>
                 <div className="table-container">
-                    <table className="table" border="1">
+                    <table className="table" border="1" >
                         <tbody>
                         <tr>
                             <td colSpan="13">

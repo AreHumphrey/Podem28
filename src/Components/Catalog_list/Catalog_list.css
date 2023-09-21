@@ -82,11 +82,11 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+
 }
 
 .product:hover .product-name {
     transform: scale(1.05);
-
 
 }
 @media (max-width: 767px) {
@@ -94,13 +94,16 @@
         padding-top: 60px;
         border-top: 2px solid #afafaf;
         border-bottom: 2px solid #afafaf;
+
     }
 
     .h1_all{
         font-size: 24px;
+
     }
 
     .h1_all{
         font-size: 24px;
+
     }
 }

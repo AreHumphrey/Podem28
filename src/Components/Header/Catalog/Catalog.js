@@ -183,7 +183,7 @@ const Catalog = () => {
                 </svg>
 
 
-                <div className="text_cat">Складное оборудование</div>
+                <div className="text_cat">Складское оборудование</div>
 
             </button>
             <nav className={`dropdown_cat1 ${isOpen2 ? "active" : ""}`} ref={menuRef2}>

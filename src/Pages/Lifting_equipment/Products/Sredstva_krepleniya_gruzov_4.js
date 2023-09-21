@@ -10,7 +10,7 @@ const Sredstva_krepleniya_gruzov_4 = () => {
         <div className="all_frame">
             <ButtonAppBar/>
             <div className="pages_text">
-                <h2>ТАЛРЕП С ТРЕЩЕТКОЙ</h2>
+                <h2>ТАЛРЕП ЦЕПНОЙ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
 

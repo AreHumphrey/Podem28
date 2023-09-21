@@ -16,7 +16,7 @@ const Sredstva_krepleniya_gruzov = () => {
         {id: 1, href: "/sredstva-krepleniya-gruzov_1",  name: "Крюки J-образные двойные", image: img_1},
         {id: 2, href: "/sredstva-krepleniya-gruzov_2",  name: "Стяжной механизм для стяжных ремней", image: img_2},
         {id: 3, href: "/sredstva-krepleniya-gruzov_3",  name: "Ремни буксировочные автомобильные (высокопрочные)", image: img_3},
-        {id: 4, href: "/sredstva-krepleniya-gruzov_4",  name: "Талреп с трещеткой", image: img_4},
+        {id: 4, href: "/sredstva-krepleniya-gruzov_4",  name: "Талреп цепной", image: img_4},
         {id: 5, href: "/sredstva-krepleniya-gruzov_5",  name: " Комплектующие для стяжных ремней", image: img_5},
         {id: 6, href: "/sredstva-krepleniya-gruzov_6",  name: " Ремни для стяжки груза", image: img_6},
 

@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: flex-start;
     padding: 20px;
+    height: 220px;
     width: 100%;
     bottom: 0;
     background: rgba(20, 41, 122, 0.96);
@@ -42,7 +43,7 @@
 .text {
     color: rgba(234, 233, 233, 0.60);
     font-family: Raleway;
-    font-size: 20px;
+    font-size: 17px;
     font-style: normal;
     line-height: 2;
     margin-left: 140px;
@@ -54,7 +55,7 @@
     align-items: center;
     color: rgba(234, 233, 233, 0.60);
     font-family: Raleway;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     line-height: 2.5;
     text-align: right;
@@ -66,7 +67,7 @@
     color: rgba(234, 233, 233, 0.60);
     font-family: Raleway;
     font-style: normal;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 2.5;
     margin-left: 100px;
     white-space: nowrap;
@@ -91,13 +92,17 @@
 }
 
 .logo {
-    width: 252px;
-    height: 233px;
+    width: 202px;
+    height: 183px;
     opacity: 0.5;
-    transform: translateX(-190px) translateY(30px);
+    transform: translateX(-100px) translateY(1px);
 }
 
 @media (max-width: 767px) {
+
+    .basement {
+        height: 159px;
+    }
 
     .logo {
         display: none;
@@ -114,16 +119,16 @@
     }
 
     .text {
-        font-size: 14px;
+        font-size: 10px;
 
     }
 
     .text_all {
-        font-size: 11px;
+        font-size: 9px;
     }
 
     .text_alls {
-        font-size: 11px;
+        font-size: 9px;
     }
 
     .image-container {

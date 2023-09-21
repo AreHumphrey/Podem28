@@ -14,7 +14,7 @@ const Kolesa_2 = () => {
         <div className="all_frame">
             <ButtonAppBar/>
             <div className="pages_text">
-                <h2>ТЕЛЕЖКИ С СЕТЧАТЫМИ БОРТАМИ</h2>
+                <h2>ТЕРМОСТОЙКИЕ КОЛЕСА</h2>
 
                 <div className="container_foto">
                     <img src={img_3_1}></img>

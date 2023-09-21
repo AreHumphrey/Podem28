@@ -1,10 +1,10 @@
 .gap {
     width: 100%;
     position: relative;
-    height: 150px;
+    height: 80px;
 }
 @media (max-width: 767px) {
     .gap {
-        height: 80px;
+        height: 60px;
     }
 }
