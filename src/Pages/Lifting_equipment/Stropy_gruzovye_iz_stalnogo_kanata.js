@@ -25,7 +25,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata = () => {
     return (
         <div className="all_frame">
             <ButtonAppBar/>
-            <h1 className="h1">Стропы грузовые из стального каната</h1>
+            <h1 className="h1">Стропы из стального каната</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>

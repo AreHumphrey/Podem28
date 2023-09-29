@@ -25,7 +25,7 @@ const Stropy_gruzovye_tsepnye = () => {
     return (
         <div className="all_frame">
             <ButtonAppBar/>
-            <h1 className="h1">Стропы грузовые цепные</h1>
+            <h1 className="h1">Стропы цепные</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>

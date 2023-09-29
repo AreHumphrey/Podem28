@@ -23,7 +23,7 @@ const Stropy_gruzovye_tekstilnye = () => {
     return (
         <div className="all_frame">
             <ButtonAppBar/>
-            <h1 className="h1">Стропы грузовые текстильные</h1>
+            <h1 className="h1">Стропы текстильные</h1>
             <div className="catalog">
                 {products.map((product) => (
                     <div className="product" key={product.id}>

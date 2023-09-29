@@ -235,6 +235,14 @@
     </url>
 
     <url>
+        <loc>https://подъем28.рф/TSep8</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>цепь купить благовещенск</image:title>
+        </image:image>
+    </url>
+
+    <url>
         <loc>https://подъем28.рф/Koush-otsinkovannyy-dlya-kanata</loc>
         <priority>1.0</priority>
         <image:image>
@@ -358,7 +366,7 @@
         <loc>https://подъем28.рф/ruchnye_lebedki_1</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ЛЕБЕДКА РУЧНАЯ LHW (КИТАЙ)</image:title>
+            <image:title>ЛЕБЕДКА РУЧНАЯ LHW</image:title>
         </image:image>
     </url>
 
@@ -366,7 +374,7 @@
         <loc>https://подъем28.рф/ruchnye_lebedki_3</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ЛЕБЕДКА УСИЛЕННАЯ СЕРИИ JHW (КИТАЙ)</image:title>
+            <image:title>ЛЕБЕДКА УСИЛЕННАЯ СЕРИИ JHW</image:title>
         </image:image>
     </url>
 
@@ -374,7 +382,7 @@
         <loc>https://подъем28.рф/ruchnye_lebedki_2</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ЛЕБЕДКА РУЧНАЯ С ТОРМОЗОМ BHW (КИТАЙ)</image:title>
+            <image:title>ЛЕБЕДКА РУЧНАЯ С ТОРМОЗОМ BHW</image:title>
         </image:image>
     </url>
 
@@ -390,7 +398,7 @@
         <loc>https://подъем28.рф/ruchnye_lebedki_5</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ЛЕБЕДКА РЫЧАЖНАЯ (МТМ)</image:title>
+            <image:title>ЛЕБЕДКА РЫЧАЖНАЯ</image:title>
         </image:image>
     </url>
 
@@ -446,7 +454,7 @@
         <loc>https://подъем28.рф/ruchnye_tali_2</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ТАЛЬ РУЧНАЯ ЦЕПНАЯ HSZ-E (КИТАЙ)</image:title>
+            <image:title>ТАЛЬ РУЧНАЯ ЦЕПНАЯ HSZ-E</image:title>
         </image:image>
     </url>
 
@@ -518,7 +526,7 @@
         <loc>https://подъем28.рф/sredstva-krepleniya-gruzov_3</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>РЕМНИ БУКСИРОВОЧНЫЕ АВТОМОБИЛЬНЫЕ (ВЫСОКОПРОЧНЫЕ)</image:title>
+            <image:title>РЕМНИ БУКСИРОВОЧНЫЕ АВТОМОБИЛЬНЫЕ</image:title>
         </image:image>
     </url>
 
@@ -526,7 +534,15 @@
         <loc>https://подъем28.рф/sredstva-krepleniya-gruzov_4</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ТАЛРЕП С ТРЕЩЕТКОЙ</image:title>
+            <image:title>ТАЛРЕП ЦЕПНОЙ</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/sredstva-krepleniya-gruzov_4</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>ЦЕПНОЙ ТАЛРЕП</image:title>
         </image:image>
     </url>
 
@@ -547,10 +563,19 @@
     </url>
 
     <url>
+        <loc>https://подъем28.рф/sredstva-krepleniya-gruzov_6</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>ремни стяжные</image:title>
+        </image:image>
+    </url>
+
+
+    <url>
         <loc>https://подъем28.рф/stropy-gruzovye-iz-stalnogo-kanata</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>Стропы грузовые из стального каната</image:title>
+            <image:title>Стропы из стального каната</image:title>
         </image:image>
     </url>
 
@@ -574,7 +599,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-iz-stalnogo-kanata_2</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>КОЛЬЦЕВЫЕ</image:title>
+            <image:title>КОЛЬЦЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -582,7 +607,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-iz-stalnogo-kanata_4</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ДВУХВЕТВЕВЫЕ</image:title>
+            <image:title>ДВУХВЕТВЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -590,7 +615,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-iz-stalnogo-kanata_5</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ОДНОВЕТВЕВЫЕ</image:title>
+            <image:title>ОДНОВЕТВЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -606,7 +631,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>Стропы грузовые текстильные</image:title>
+            <image:title>Стропы текстильные</image:title>
         </image:image>
     </url>
 
@@ -614,7 +639,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye_1</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ПЕТЛЕВЫЕ</image:title>
+            <image:title>ПЕТЛЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -622,7 +647,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye_2</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>КОЛЬЦЕВЫЕ</image:title>
+            <image:title>КОЛЬЦЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -630,7 +655,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye_3</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ОДНОВЕТВЕВЫЕ</image:title>
+            <image:title>ОДНОВЕТВЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -638,7 +663,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye_4</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ДВУХВЕТВЕВЫЕ</image:title>
+            <image:title>ДВУХВЕТВЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -646,7 +671,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tekstilnye_5</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>ЧЕТЫРЕХ - ВЕТВЕВЫЕ</image:title>
+            <image:title>ЧЕТЫРЕХ - ВЕТВЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -654,7 +679,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tsepnye</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>Стропы грузовые цепные</image:title>
+            <image:title>Стропы цепные</image:title>
         </image:image>
     </url>
 
@@ -694,7 +719,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tsepnye_5</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>КОЛЬЦЕВЫЕ</image:title>
+            <image:title>КОЛЬЦЕВЫЕ СТРОПЫ</image:title>
         </image:image>
     </url>
 
@@ -702,7 +727,7 @@
         <loc>https://подъем28.рф/stropy-gruzovye-tsepnye_6</loc>
         <priority>1.0</priority>
         <image:image>
-            <image:title>С ДВУМЯ ЗАМКНУТЫМИ ВЕТВЯМИ</image:title>
+            <image:title>СТРОПЫ С ДВУМЯ ЗАМКНУТЫМИ ВЕТВЯМИ</image:title>
         </image:image>
     </url>
 
@@ -814,7 +839,7 @@
         <loc>https://подъем28.рф/kolesa_3</loc>
         <priority>0.7</priority>
         <image:image>
-            <image:title>БОЛЬШЕГРУЗНЫЕ КОЛЕСА (НЕЙЛОН, ПОЛИАМИД)</image:title>
+            <image:title>БОЛЬШЕГРУЗНЫЕ КОЛЕСА</image:title>
         </image:image>
     </url>
 
@@ -822,7 +847,7 @@
         <loc>https://подъем28.рф/kolesa_4</loc>
         <priority>0.7</priority>
         <image:image>
-            <image:title>БОЛЬШЕГРУЗНЫЕ КОЛЕСА (ПОЛИУРЕТАН)</image:title>
+            <image:title>БОЛЬШЕГРУЗНЫЕ КОЛЕСА</image:title>
         </image:image>
     </url>
 
@@ -915,6 +940,14 @@
     </url>
 
     <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.1</loc>
+        <priority>0.6</priority>
+        <image:image>
+            <image:title>РЕДУКТОРЫ</image:title>
+        </image:image>
+    </url>
+
+    <url>
         <loc>https://подъем28.рф/komplektuyushchie-k-reduktoram-i-regulyatoram-manometry</loc>
         <priority>0.7</priority>
         <image:image>
@@ -931,6 +964,30 @@
     </url>
 
     <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.3</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>Баллоны</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.3</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>генераторы</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.3</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>колпаки</image:title>
+        </image:image>
+    </url>
+
+    <url>
         <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.4</loc>
         <priority>0.7</priority>
         <image:image>
@@ -943,6 +1000,22 @@
         <priority>0.7</priority>
         <image:image>
             <image:title>Газовые горелки и паяльники</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.5</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>Газовые горелки</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/gazosvarochnoe_oborudovanie_1.5</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>паяльники</image:title>
         </image:image>
     </url>
 
@@ -1019,6 +1092,21 @@
     </url>
 
     <url>
+        <loc>https://подъем28.рф/svarochnye-apparaty-gorelki</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>СВАРОЧНЫЕ АППАРАТЫ</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/svarochnye-apparaty-gorelki</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>СВАРОЧНЫЕ ГОРЕЛКИ</image:title>
+        </image:image>
+    </url>
+    <url>
         <loc>https://подъем28.рф/Gorelki-dlya-poluavtomatov</loc>
         <priority>0.7</priority>
         <image:image>
@@ -1054,7 +1142,15 @@
         <loc>https://подъем28.рф/pripoi-flyusy</loc>
         <priority>0.7</priority>
         <image:image>
-            <image:title>Припои, флюсы</image:title>
+            <image:title>Припои</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф/pripoi-flyusy</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>Флюсы</image:title>
         </image:image>
     </url>
 
@@ -1158,7 +1254,7 @@
         <loc>https://подъем28.рф/klemmy-svarochnye</loc>
         <priority>0.7</priority>
         <image:image>
-            <image:title>Клеммы сварочные </image:title>
+            <image:title>Клеммы сварочные</image:title>
         </image:image>
     </url>
 
@@ -1214,7 +1310,39 @@
         <loc>https://подъем28.рф</loc>
         <priority>1.0</priority>
         <image:image>
+            <image:title>Подъем Благовещенск</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф</loc>
+        <priority>1.0</priority>
+        <image:image>
             <image:title>Строительные магазины</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>Строительные магазины Благовещенск</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>Строительные магазины Благовещенск</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://подъем28.рф</loc>
+        <priority>1.0</priority>
+        <image:image>
+            <image:title>Строительные магазины Амурская область</image:title>
         </image:image>
     </url>
 
@@ -1314,5 +1442,12 @@
         </image:image>
     </url>
 
+    <url>
+        <loc>https://подъем28.рф/lebedki-elektricheskie</loc>
+        <priority>0.7</priority>
+        <image:image>
+            <image:title>Ремни стяжные Благовещенск</image:title>
+        </image:image>
+    </url>
 
 </urlset>

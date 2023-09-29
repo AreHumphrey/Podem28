@@ -22,12 +22,11 @@ import img_27 from "../Img/img_ballony_generatory_kolpaki_5.jpg"
 
 const Catalog_list = () => {
     const products = [
-        {id: 2, href: "/stropy-gruzovye-tsepnye", name: "Стяжки цепные", image: img_23},
-        {id: 7, href: "/stropy-gruzovye-tekstilnye", name: "Стропы грузовые текстильные", image: img_14},
-        {id: 8, href: "/sredstva-krepleniya-gruzov", name: "Средства крепления грузов", image: img_4},
-        {id: 9, href: "/stropy-gruzovye-tekstilnye", name: "Стропы грузовые текстильные", image: img_5},
-        {id: 7, href: "/stropy-gruzovye-iz-stalnogo-kanata", name: "Стропы грузовые из стального каната", image: img_7},
-        {id: 3, href: "/Talrep-takelazhnyy-vilka-vilka", name: "Талреп  такелажный вилка-вилка", image: img_22},
+        {id: 2, href: "/stropy-gruzovye-tsepnye", name: "Стропы цепные", image: img_23},
+        {id: 8, href: "/sredstva-krepleniya-gruzov_6", name: "Ремни стяжные", image: img_4},
+        {id: 9, href: "/stropy-gruzovye-tekstilnye", name: "Стропы текстильные", image: img_5},
+        {id: 7, href: "/stropy-gruzovye-iz-stalnogo-kanata", name: "Стропы из стального каната", image: img_7},
+
         {id: 4, href: "/sredstva-krepleniya-gruzov_4", name: "Талреп цепной", image: img_21},
         {id: 5, href: "/komplektuyushchie-dlya-strop", name: "Комплектующие для строп", image: img_1},
         {id: 1, href: "/TSep8", name: "Цепь", image: img_9},
