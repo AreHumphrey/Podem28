@@ -27,42 +27,42 @@ const Stropy_gruzovye_tekstilnye_3 = () => {
                 <table cellSpacing="0" border="1" align="center">
                     <thead>
                     <tr>
-                        <th>Designation</th>
-                        <th>Strap Capacity</th>
-                        <th>Width of Strap</th>
-                        <th>Strap Color</th>
+                        <th>Обозначение</th>
+                        <th>Г/П стропа</th>
+                        <th>Ширина ленты</th>
+                        <th>Цвет ленты</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td>СТП-0,5</td>
                         <td>-</td>
-                        <td>60 mm</td>
-                        <td>White</td>
+                        <td>60 мм</td>
+                        <td>Белый</td>
                     </tr>
                     <tr>
                         <td>СТП-1,0</td>
                         <td>-</td>
-                        <td>60 mm</td>
-                        <td>White</td>
+                        <td>60 мм</td>
+                        <td>Белый</td>
                     </tr>
                     <tr>
                         <td>СТП-1,7</td>
                         <td>-</td>
-                        <td>80 mm</td>
-                        <td>White</td>
+                        <td>80 мм</td>
+                        <td>Белый</td>
                     </tr>
                     <tr>
                         <td>СТП-3,0</td>
                         <td>-</td>
-                        <td>150 mm</td>
-                        <td>White</td>
+                        <td>150 мм</td>
+                        <td>Белый</td>
                     </tr>
                     <tr>
                         <td>СТП-6,0</td>
                         <td>-</td>
-                        <td>150 mm</td>
-                        <td>White</td>
+                        <td>150 мм</td>
+                        <td>Белый</td>
                     </tr>
                     </tbody>
                 </table>
@@ -71,60 +71,60 @@ const Stropy_gruzovye_tekstilnye_3 = () => {
                 <table cellSpacing="0" border="1" align="center">
                     <thead>
                     <tr>
-                        <th>Designation</th>
-                        <th>Strap Capacity</th>
-                        <th>Width of Strap</th>
-                        <th>Strap Color</th>
+                        <th>Обозначение</th>
+                        <th>Г/П стропа</th>
+                        <th>Ширина ленты</th>
+                        <th>Цвет ленты</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td>СТП-0,5</td>
                         <td>-</td>
-                        <td>30 mm</td>
-                        <td>Violet</td>
+                        <td>30 мм</td>
+                        <td>Фиолетовый</td>
                     </tr>
                     <tr>
                         <td>СТП-1,0</td>
                         <td>-</td>
                         <td>30 mm</td>
-                        <td>Violet</td>
+                        <td>Фиолетовый</td>
                     </tr>
                     <tr>
                         <td>СТП-2,0</td>
                         <td>-</td>
-                        <td>60 mm</td>
-                        <td>Green</td>
+                        <td>60 мм</td>
+                        <td>Зеленый</td>
                     </tr>
                     <tr>
                         <td>СТП-3,0</td>
                         <td>-</td>
-                        <td>90 mm</td>
-                        <td>Yellow</td>
+                        <td>90 мм</td>
+                        <td>Желтый</td>
                     </tr>
                     <tr>
                         <td>СТП-4,0</td>
                         <td>-</td>
-                        <td>120 mm</td>
-                        <td>Gray</td>
+                        <td>120 мм</td>
+                        <td>Серый</td>
                     </tr>
                     <tr>
                         <td>СТП-5,0</td>
                         <td>-</td>
-                        <td>150 mm</td>
-                        <td>Red</td>
+                        <td>150 мм</td>
+                        <td>Красный</td>
                     </tr>
                     <tr>
                         <td>СТП-8,0</td>
                         <td>-</td>
-                        <td>240 mm</td>
-                        <td>Blue</td>
+                        <td>240 мм</td>
+                        <td>Синий</td>
                     </tr>
                     <tr>
                         <td>СТП-15,0</td>
                         <td>-</td>
-                        <td>300 mm</td>
-                        <td>Orange</td>
+                        <td>300 мм</td>
+                        <td>Оранжевый</td>
                     </tr>
                     </tbody>
                 </table>
@@ -199,72 +199,72 @@ const Stropy_gruzovye_tekstilnye_3 = () => {
                 <table cellSpacing="0" border="1" align="center">
                     <thead>
                     <tr>
-                        <th>Designation</th>
-                        <th>Strap Capacity</th>
-                        <th>Width of Strap</th>
-                        <th>Strap Color</th>
+                        <th>Обозначение</th>
+                        <th>Г/П стропа</th>
+                        <th>Ширина ленты</th>
+                        <th>Цвет ленты</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td>СТП-0,5</td>
                         <td>-</td>
-                        <td>30 mm</td>
-                        <td>Violet</td>
+                        <td>30 мм</td>
+                        <td>Фиолетовый</td>
                     </tr>
                     <tr>
                         <td>СТП-1,0</td>
                         <td>-</td>
-                        <td>30 mm</td>
-                        <td>Violet</td>
+                        <td>30 мм</td>
+                        <td>Фиолетовый</td>
                     </tr>
                     <tr>
                         <td>СТП-2,0</td>
                         <td>-</td>
-                        <td>50 mm</td>
-                        <td>Green</td>
+                        <td>50 мм</td>
+                        <td>Зеленый</td>
                     </tr>
                     <tr>
                         <td>СТП-3,0</td>
                         <td>-</td>
-                        <td>75 mm</td>
-                        <td>Yellow</td>
+                        <td>75 мм</td>
+                        <td>Желтый</td>
                     </tr>
                     <tr>
                         <td>СТП-4,0</td>
                         <td>-</td>
-                        <td>100 mm</td>
+                        <td>100 мм</td>
                         <td>Gray</td>
                     </tr>
                     <tr>
                         <td>СТП-5,0</td>
                         <td>-</td>
-                        <td>125 mm</td>
-                        <td>Red</td>
+                        <td>125 мм</td>
+                        <td>Красный</td>
                     </tr>
                     <tr>
                         <td>СТП-6,0</td>
                         <td>-</td>
-                        <td>150 mm</td>
-                        <td>Brown</td>
+                        <td>150 мм</td>
+                        <td>Коричневый</td>
                     </tr>
                     <tr>
                         <td>СТП-8,0</td>
                         <td>-</td>
-                        <td>200 mm</td>
-                        <td>Blue</td>
+                        <td>200 мм</td>
+                        <td>Синий</td>
                     </tr>
                     <tr>
                         <td>СТП-10,0</td>
                         <td>-</td>
-                        <td>250 mm</td>
-                        <td>Orange</td>
+                        <td>250 мм</td>
+                        <td>Оранжевый</td>
                     </tr>
                     <tr>
                         <td>СТП-12,0</td>
                         <td>-</td>
-                        <td>300 mm</td>
-                        <td>Orange</td>
+                        <td>300 мм</td>
+                        <td>Оранжевый</td>
                     </tr>
                     </tbody>
                 </table>

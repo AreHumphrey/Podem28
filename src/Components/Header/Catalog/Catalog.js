@@ -132,17 +132,17 @@ const Catalog = () => {
                     <li className="cat__item1" onClick={() => {
                         window.location.href = '/stropy-gruzovye-iz-stalnogo-kanata';
                     }}>
-                        <a href="/stropy-gruzovye-iz-stalnogo-kanata"> Стропы грузовые из стального каната</a>
+                        <a href="/stropy-gruzovye-iz-stalnogo-kanata"> Стропы из стального каната</a>
                     </li>
                     <li className="cat__item1" onClick={() => {
                         window.location.href = '/stropy-gruzovye-tekstilnye';
                     }}>
-                        <a href="/stropy-gruzovye-tekstilnye"> Стропы грузовые текстильные</a>
+                        <a href="/stropy-gruzovye-tekstilnye"> Стропы текстильные</a>
                     </li>
                     <li className="cat__item1" onClick={() => {
                         window.location.href = '/stropy-gruzovye-tsepnye';
                     }}>
-                        <a href="/stropy-gruzovye-tsepnye"> Стропы грузовые цепные</a>
+                        <a href="/stropy-gruzovye-tsepnye"> Стропы цепные</a>
                     </li>
                     <li className="cat__item1" onClick={() => {
                         window.location.href = '/elektricheskie-tali';
