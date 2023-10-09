@@ -1,6 +1,14 @@
 # https://www.robotstxt.org/robotstxt.html
 
+User-agent: Yandex
+Disallow: /products/
+
+Sitemap: https://www.xn--28-jlce9ajg4g.xn--p1ai/sitemap.xml
+
+
 User-agent: *
+Disallow: /products/
+
 Sitemap: https://www.xn--28-jlce9ajg4g.xn--p1ai/sitemap.xml
 
 

@@ -10,7 +10,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
         <div className="all_frame">
             <ButtonAppBar/>
             <div className="pages_text">
-                <h2>СТРОПЫ КОМБИНИРО - ВАННЫЕ</h2>
+                <h2>СТРОПЫ КОМБИНИРОВАННЫЕ</h2>
                 <div className="container_foto">
                     <img src={img_3}></img>
                     <table border="1">
@@ -39,7 +39,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 0,7т L3м </p>
+                                <p align="center"> Строп комбинированный 0,7т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 6х18 </p>
@@ -54,7 +54,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr s="">
                             <td>
-                                <p align="center"> Строп коминированый 0,9т L3м </p>
+                                <p align="center"> Строп комбинированный 0,9т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 8х24 </p>
@@ -69,7 +69,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 1,25т L3м </p>
+                                <p align="center">Строп комбинированный 1,25т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 8х24 </p>
@@ -84,7 +84,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 1,6т L3м </p>
+                                <p align="center"> Строп комбинированный 1,6т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 10х30 </p>
@@ -99,7 +99,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 2,0т L4м </p>
+                                <p align="center"> Строп комбинированный 2,0т L4м </p>
                             </td>
                             <td>
                                 <p align="center"> 13х39 </p>
@@ -114,7 +114,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 2,5т L4м </p>
+                                <p align="center"> Строп комбинированный 2,5т L4м </p>
                             </td>
                             <td>
                                 <p align="center"> 13х39 </p>
@@ -152,7 +152,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 0,7т L3м </p>
+                                <p align="center"> Строп комбинированный 0,7т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 6х18 </p>
@@ -167,7 +167,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 0,9т L3м </p>
+                                <p align="center"> Строп комбинированный 0,9т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 8х24 </p>
@@ -182,7 +182,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 1,25т L3м </p>
+                                <p align="center"> Строп комбинированный 1,25т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 8х24 </p>
@@ -197,7 +197,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 1,6т L3м </p>
+                                <p align="center"> Строп комбинированный 1,6т L3м </p>
                             </td>
                             <td>
                                 <p align="center"> 10х30 </p>
@@ -212,7 +212,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 2,0т L4м </p>
+                                <p align="center"> Строп комбинированный 2,0т L4м </p>
                             </td>
                             <td>
                                 <p align="center"> 13х39 </p>
@@ -227,7 +227,7 @@ const Stropy_gruzovye_iz_stalnogo_kanata_1 = () => {
 
                         <tr>
                             <td>
-                                <p align="center"> Строп коминированый 2,5т L4м </p>
+                                <p align="center"> Строп комбинированный 2,5т L4м </p>
                             </td>
                             <td>
                                 <p align="center"> 13х39 </p>
