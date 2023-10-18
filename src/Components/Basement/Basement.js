@@ -82,7 +82,10 @@ export default function Basement() {
 
                     </a>
                 </div>
+
+
             </div>
+            <p className="key_word">Купить</p>
         </div>
     );
 }

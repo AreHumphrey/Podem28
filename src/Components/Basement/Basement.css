@@ -98,6 +98,10 @@
     transform: translateX(-100px) translateY(1px);
 }
 
+.key_word {
+    color: rgba(26, 48, 133, 0.96);
+    font-size: 4px;
+}
 @media (max-width: 767px) {
 
     .basement {
